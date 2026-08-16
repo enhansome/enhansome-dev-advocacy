@@ -12,7 +12,7 @@
 ## What is Awesome Developer Advocacy?
 This project continues a trend started by [Sindre Sorhus](https://github.com/sindresorhus) where he created a project to list useful resources for various topics: NodeJS, JVM, Networking, etc.
 
-Awesome Developer Advocacy is a curated list of **3463** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
+Awesome Developer Advocacy is a curated list of **3464** resources for anyone interested in DevRel. These links aim to help those who are just starting, planning to get involved, or looking to further their skills in the Developer Advocacy field.
 
 # Table of Contents
 
@@ -27,7 +27,7 @@ Awesome Developer Advocacy is a curated list of **3463** resources for anyone in
 * [Tools & Services](#tools--services) (489)
 * [Courses & Training](#courses--training) (114)
 * [Guides & Resources](#guides--resources) (566)
-* [Agent Skills](#agent-skills) (367)
+* [Agent Skills](#agent-skills) (368)
 * [Related](#related)
 
 ## Books
@@ -2298,14 +2298,14 @@ Video channels dedicated to different areas of DevRel:
 
 ## Communities
 
-* [Langflow GitHub](https://github.com/langflow-ai/langflow) ⭐ 153,270 | 🐛 969 | 🌐 Python | 📅 2026-08-15
+* [Langflow GitHub](https://github.com/langflow-ai/langflow) ⭐ 153,330 | 🐛 966 | 🌐 Python | 📅 2026-08-16
 * [Flowise GitHub](https://github.com/FlowiseAI/Flowise) ⚠️ Archived
-* [Most Impactful RAG Papers](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md) ⭐ 28,757 | 🐛 5 | 🌐 HTML | 📅 2026-08-12
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,195 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
-* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams) ⭐ 8,014 | 🐛 8 | 📅 2026-01-01
+* [Most Impactful RAG Papers](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md) ⭐ 28,769 | 🐛 5 | 🌐 HTML | 📅 2026-08-12
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,199 | 🐛 6 | 🌐 HTML | 📅 2026-07-21
+* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams) ⭐ 8,015 | 🐛 8 | 📅 2026-01-01
 * [RAGHub: A Directory of Tools for Retrieval-Augmented Generation](https://github.com/Andrew-Jang/RAGHub) ⭐ 1,983 | 🐛 0 | 📅 2026-07-28
-* [awesome-websockets](https://github.com/facundofarias/awesome-websockets) ⭐ 1,858 | 🐛 3 | 📅 2026-07-13
-* [Awesome AI SDKs](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,211 | 🐛 238 | 📅 2026-07-09
+* [awesome-websockets](https://github.com/facundofarias/awesome-websockets) ⭐ 1,858 | 🐛 4 | 📅 2026-07-13
+* [Awesome AI SDKs](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,211 | 🐛 240 | 📅 2026-07-09
 * [DevOps Chat Rooms](https://github.com/collabnix/devopschatrooms) ⭐ 117 | 🐛 1 | 📅 2023-03-29
 * [Awesome AI Ethics](https://github.com/brandonhimpfen/awesome-ai-ethics) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-05-05
 * [Developer Communities in Europe](https://github.com/LaraKraemer/developer-communities) ⭐ 5 | 🐛 0 | 📅 2025-01-30
@@ -2583,42 +2583,42 @@ Video channels dedicated to different areas of DevRel:
 
 ## Tools & Services
 
-* [TensorFlow GitHub Repository](https://github.com/tensorflow/tensorflow) ⭐ 197,043 | 🐛 2,858 | 🌐 C++ | 📅 2026-08-15
-* [Transformers GitHub Repository](https://github.com/huggingface/transformers) ⭐ 164,118 | 🐛 2,382 | 🌐 Python | 📅 2026-08-15
-* [GitHub - langgenius/dify: Production-ready platform for agentic workflow development. · GitHub](https://github.com/langgenius/dify) ⭐ 152,532 | 🐛 975 | 🌐 TypeScript | 📅 2026-08-15
-* [PyTorch GitHub Repository](https://github.com/pytorch/pytorch) ⭐ 102,390 | 🐛 17,321 | 🌐 Python | 📅 2026-08-15
-* [fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 82,541 | 🐛 326 | 🌐 Go | 📅 2026-08-14
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,355 | 🐛 1,018 | 🌐 Go | 📅 2026-08-15
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,309 | 🐛 176 | 🌐 Rust | 📅 2026-08-04
-* [microsoft/autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen) ⭐ 60,435 | 🐛 991 | 🌐 Python | 📅 2026-04-15
-* [crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewaiinc/crewai) ⭐ 57,117 | 🐛 790 | 🌐 Python | 📅 2026-08-15
-* [Aider](https://github.com/paul-gauthier/aider) ⭐ 48,246 | 🐛 1,801 | 🌐 Python | 📅 2026-05-22
-* [coqui-ai/TTS: a deep learning toolkit for Text-to-Speech](https://github.com/coqui-ai/tts) ⭐ 45,905 | 🐛 4 | 🌐 Python | 📅 2024-08-16
-* [Commander.js](https://github.com/tj/commander.js) ⭐ 28,365 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11
-* [Kilo Code](https://github.com/kilo-org/kilocode) ⭐ 26,886 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-15
-* [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval) ⭐ 17,606 | 🐛 460 | 🌐 Python | 📅 2026-08-13
-* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,897 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11
-* [Scalar](https://github.com/scalar/scalar) ⭐ 15,917 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-14
+* [TensorFlow GitHub Repository](https://github.com/tensorflow/tensorflow) ⭐ 197,088 | 🐛 2,868 | 🌐 C++ | 📅 2026-08-16
+* [Transformers GitHub Repository](https://github.com/huggingface/transformers) ⭐ 164,163 | 🐛 2,385 | 🌐 Python | 📅 2026-08-16
+* [GitHub - langgenius/dify: Production-ready platform for agentic workflow development. · GitHub](https://github.com/langgenius/dify) ⭐ 152,626 | 🐛 984 | 🌐 TypeScript | 📅 2026-08-16
+* [PyTorch GitHub Repository](https://github.com/pytorch/pytorch) ⭐ 102,430 | 🐛 17,329 | 🌐 Python | 📅 2026-08-16
+* [fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 82,545 | 🐛 327 | 🌐 Go | 📅 2026-08-14
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 81,381 | 🐛 1,019 | 🌐 Go | 📅 2026-08-16
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 67,329 | 🐛 177 | 🌐 Rust | 📅 2026-08-04
+* [microsoft/autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen) ⭐ 60,456 | 🐛 997 | 🌐 Python | 📅 2026-04-15
+* [crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewaiinc/crewai) ⭐ 57,168 | 🐛 795 | 🌐 Python | 📅 2026-08-16
+* [Aider](https://github.com/paul-gauthier/aider) ⭐ 48,268 | 🐛 1,806 | 🌐 Python | 📅 2026-05-22
+* [coqui-ai/TTS: a deep learning toolkit for Text-to-Speech](https://github.com/coqui-ai/tts) ⭐ 45,906 | 🐛 2 | 🌐 Python | 📅 2024-08-16
+* [Commander.js](https://github.com/tj/commander.js) ⭐ 28,367 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-11
+* [Kilo Code](https://github.com/kilo-org/kilocode) ⭐ 26,888 | 🐛 619 | 🌐 TypeScript | 📅 2026-08-16
+* [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval) ⭐ 17,619 | 🐛 462 | 🌐 Python | 📅 2026-08-13
+* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,894 | 🐛 390 | 🌐 TypeScript | 📅 2026-08-11
+* [Scalar](https://github.com/scalar/scalar) ⭐ 15,926 | 🐛 85 | 🌐 TypeScript | 📅 2026-08-16
 * [Peek (for Linux)](https://github.com/phw/peek) ⚠️ Archived
-* [PySyft](https://github.com/OpenMined/PySyft) ⭐ 9,937 | 🐛 21 | 🌐 Python | 📅 2026-08-14
+* [PySyft](https://github.com/OpenMined/PySyft) ⭐ 9,936 | 🐛 21 | 🌐 Python | 📅 2026-08-14
 * [SockJS - WebSocket emulation](https://github.com/sockjs/sockjs-client) ⭐ 8,508 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-11
-* [FinRobot: An Open-Source AI Agent Platform for Financial Applications](https://github.com/ai4finance-foundation/finrobot) ⭐ 7,790 | 🐛 72 | 🌐 Jupyter Notebook | 📅 2026-07-27
-* [Flower](https://github.com/adap/flower) ⭐ 7,074 | 🐛 381 | 🌐 Python | 📅 2026-08-15
+* [FinRobot: An Open-Source AI Agent Platform for Financial Applications](https://github.com/ai4finance-foundation/finrobot) ⭐ 7,793 | 🐛 73 | 🌐 Jupyter Notebook | 📅 2026-07-27
+* [Flower](https://github.com/adap/flower) ⭐ 7,076 | 🐛 380 | 🌐 Python | 📅 2026-08-16
 * [write-good](https://github.com/btford/write-good) ⭐ 5,076 | 🐛 24 | 🌐 JavaScript | 📅 2025-03-10
 * [TopoJSON](https://github.com/mbostock/topojson) ⭐ 4,901 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20
 * [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,937 | 🐛 24 | 🌐 Shell | 📅 2026-08-05
-* [Tokscale](https://github.com/jamesmurdza/awesome-ai-devtools#usage-analytics--cost-tracking) ⭐ 3,912 | 🐛 243 | 📅 2026-07-11
+* [Tokscale](https://github.com/jamesmurdza/awesome-ai-devtools#usage-analytics--cost-tracking) ⭐ 3,912 | 🐛 244 | 📅 2026-07-11
 * [Kubetools - Curated List of Kubernetes Tools](https://github.com/collabnix/kubetools) ⭐ 3,462 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-06
 * [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,341 | 🐛 60 | 🌐 Go | 📅 2026-08-06
 * [Qiskit/qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) ⚠️ Archived
 * [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) ⭐ 2,259 | 🐛 476 | 🌐 Python | 📅 2026-08-14
 * [markdownlint](https://github.com/markdownlint/markdownlint) ⭐ 2,069 | 🐛 107 | 🌐 Ruby | 📅 2026-08-09
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda) ⭐ 1,995 | 🐛 13 | 🌐 JavaScript | 📅 2026-08-15
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda) ⭐ 1,995 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-16
 * [midjourney-api on GitHub](https://github.com/erictik/midjourney-api) ⭐ 1,870 | 🐛 123 | 🌐 TypeScript | 📅 2026-07-28
 * [Open Source Email Templates](https://github.com/sendwithus/templates) ⭐ 1,817 | 🐛 3 | 🌐 HTML | 📅 2024-03-11
 * [HTMLProofer](https://github.com/gjtorikian/html-proofer) ⭐ 1,646 | 🐛 14 | 🌐 Ruby | 📅 2026-07-28
 * [widdershins](https://github.com/Mermade/widdershins) ⭐ 1,581 | 🐛 89 | 🌐 JavaScript | 📅 2024-06-04
-* [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,448 | 🐛 25 | 📅 2024-08-11
+* [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,450 | 🐛 25 | 📅 2024-08-11
 * [gifcurry (for Linux/Mac)](https://github.com/lettier/gifcurry) ⭐ 1,442 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13
 * [webui-stability-api](https://github.com/Stability-AI/webui-stability-api) ⭐ 325 | 🐛 4 | 🌐 Python | 📅 2023-06-28
 * [Kubeflow Model Registry](https://github.com/kubeflow/model-registry) ⭐ 182 | 🐛 29 | 🌐 Go | 📅 2026-08-14
@@ -3192,28 +3192,28 @@ Video channels dedicated to different areas of DevRel:
 
 ## Guides & Resources
 
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,506 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-14
-* [API · AUTOMATIC1111/stable-diffusion-webui Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) ⭐ 164,502 | 🐛 2,502 | 🌐 Python | 📅 2026-03-02
-* [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 77,493 | 🐛 277 | 🌐 MDX | 📅 2026-03-11
-* [How to use the DALL·E API](https://github.com/openai/openai-cookbook/blob/main/examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb) ⭐ 75,242 | 🐛 249 | 🌐 Jupyter Notebook | 📅 2026-08-15
-* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,319 | 🐛 176 | 📅 2026-08-05
-* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,161 | 🐛 1 | 🌐 Shell | 📅 2026-08-04
-* [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load) ⭐ 12,481 | 🐛 23 | 📅 2026-06-29
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,642 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-14
+* [API · AUTOMATIC1111/stable-diffusion-webui Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) ⭐ 164,533 | 🐛 2,502 | 🌐 Python | 📅 2026-03-02
+* [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 77,504 | 🐛 278 | 🌐 MDX | 📅 2026-03-11
+* [How to use the DALL·E API](https://github.com/openai/openai-cookbook/blob/main/examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb) ⭐ 75,261 | 🐛 243 | 🌐 Jupyter Notebook | 📅 2026-08-16
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,316 | 🐛 176 | 📅 2026-08-05
+* [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⭐ 20,164 | 🐛 0 | 🌐 Shell | 📅 2026-08-04
+* [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load) ⭐ 12,480 | 🐛 23 | 📅 2026-06-29
 * [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) ⭐ 9,582 | 🐛 6 | 📅 2023-10-23
-* [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,739 | 🐛 15 | 🌐 Python | 📅 2025-01-03
-* [gkamradt/langchain-tutorials: Overview and ...](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,482 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
-* [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,252 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-15
-* [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,916 | 🐛 241 | 🌐 Shell | 📅 2026-05-21
-* [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,109 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,912 | 🐛 243 | 📅 2026-07-11
-* [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,289 | 🐛 10 | 📅 2026-07-22
+* [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,745 | 🐛 15 | 🌐 Python | 📅 2025-01-03
+* [gkamradt/langchain-tutorials: Overview and ...](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,483 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
+* [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,253 | 🐛 105 | 🌐 TypeScript | 📅 2026-08-16
+* [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,915 | 🐛 244 | 🌐 Shell | 📅 2026-05-21
+* [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,108 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,912 | 🐛 244 | 📅 2026-07-11
+* [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,290 | 🐛 10 | 📅 2026-07-22
 * [Awesome Developer Experience](https://github.com/workos/awesome-developer-experience) ⚠️ Archived
-* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,855 | 🐛 3 | 📅 2026-08-13
+* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,857 | 🐛 3 | 📅 2026-08-13
 * [Triton Inference Server Tutorials](https://github.com/triton-inference-server/tutorials) ⭐ 858 | 🐛 30 | 🌐 Python | 📅 2026-08-14
 * [DevRel Tools List](https://github.com/devrelcollective/awesome-devrel) ⭐ 759 | 🐛 4 | 📅 2025-05-09
 * [CNCF Blog Guidelines](https://github.com/cncf/foundation/blob/main/policies-guidance/blog-guidelines.md) ⭐ 691 | 🐛 44 | 🌐 Rich Text Format | 📅 2026-08-11
 * [Awesome LLMs Fine-Tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) ⭐ 525 | 🐛 10 | 📅 2024-12-02
-* [Awesome Developer Advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy) ⭐ 258 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-09
+* [Awesome Developer Advocacy](https://github.com/dmitryvinn/awesome-dev-advocacy) ⭐ 258 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-16
 * [The Open Source Way Guidebook](https://github.com/theopensourceway/guidebook) ⭐ 212 | 🐛 26 | 📅 2026-06-30
 * [List of developer newsletters (and how to sponsor them)](https://github.com/jackbridger/developer-newsletters) ⭐ 196 | 🐛 9 | 📅 2026-03-18
 * [Common Changelog](https://github.com/vweevers/common-changelog) ⭐ 189 | 🐛 6 | 🌐 JavaScript | 📅 2025-12-17
@@ -3766,1119 +3766,1122 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 ### Developer Advocacy & Relations
 
 * [angular-developer](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-angular-developer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/angular-developer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/angular-developer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [angular-developer](https://skillsmp.com/creators/affaan-m/ecc/skills-angular-developer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/angular-developer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/angular-developer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [dev-team](https://skillsmp.com/creators/affaan-m/ecc/skills-dev-team) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/dev-team) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [architecture-decision-records](https://skillsmp.com/creators/affaan-m/ecc/skills-architecture-decision-records) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/architecture-decision-records) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/architecture-decision-records) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-architecture-audit](https://skillsmp.com/creators/affaan-m/ecc/skills-agent-architecture-audit) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [flox-environments](https://skillsmp.com/creators/affaan-m/ecc/skills-flox-environments) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flox-environments) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flox-environments) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [otel](https://skillsmp.com/creators/microsoft/vscode/github-skills-otel) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/otel) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/otel) ⭐ 188,804 | 🐛 19,869 | 🌐 TypeScript | 📅 2026-08-16
 
 * [project-graveyard](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-project-graveyard) — by Shubhamsaboo
-  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard) ⭐ 132,743 | 🐛 14 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard) ⭐ 132,876 | 🐛 19 | 🌐 Python | 📅 2026-08-13
 
 * [devex-review](https://skillsmp.com/creators/garrytan/gstack/devex-review) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/devex-review) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/devex-review) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [plan-devex-review](https://skillsmp.com/creators/garrytan/gstack/plan-devex-review) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-devex-review) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-devex-review) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [plan-tune](https://skillsmp.com/creators/garrytan/gstack/plan-tune) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
-  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator) ⭐ 106,529 | 🐛 842 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator) ⭐ 106,532 | 🐛 846 | 🌐 TypeScript | 📅 2026-08-16
 
 * [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-  * [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev) ⭐ 94,549 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-15
-
-* [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-voice) — by zed-industries
-  * [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-voice) ⭐ 88,654 | 🐛 3,239 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev) ⭐ 94,588 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-15
 
 * [brand-writer](https://skillsmp.com/creators/zed-industries/zed/factory-skills-brand-writer) — by zed-industries
-  * [GitHub](https://github.com/zed-industries/zed/tree/main/.factory/skills/brand-writer) ⭐ 88,654 | 🐛 3,239 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/zed-industries/zed/tree/main/.factory/skills/brand-writer) ⭐ 88,695 | 🐛 3,258 | 🌐 Rust | 📅 2026-08-16
+
+* [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
+  * [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer) ⭐ 88,695 | 🐛 3,258 | 🌐 Rust | 📅 2026-08-16
 
 * [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-presenter-mode](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-presenter-mode-reveal) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-presenter-mode](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-presenter-mode-reveal) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-presenter-mode-reveal) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-presenter-mode-reveal) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [ve-terminal-mono](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-ve-terminal-mono) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/ve-terminal-mono) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/ve-terminal-mono) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [imagegen-frontend-web](https://skillsmp.com/creators/nexu-io/open-design/skills-imagegen-frontend-web) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/imagegen-frontend-web) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/imagegen-frontend-web) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 ### Technical Writing & Documentation
 
 * [technical-documentation](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-technical-documentation) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/technical-documentation) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/technical-documentation) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [receiving-code-review](https://skillsmp.com/creators/obra/superpowers/skills-receiving-code-review) — by obra
-  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review) ⭐ 272,473 | 🐛 336 | 🌐 Shell | 📅 2026-08-13
+  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review) ⭐ 272,777 | 🐛 340 | 🌐 Shell | 📅 2026-08-13
 
 * [manim-video](https://skillsmp.com/creators/affaan-m/ecc/skills-manim-video) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/manim-video) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/manim-video) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [literature-review](https://skillsmp.com/creators/affaan-m/ecc/skills-scientific-thinking-literature-review) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/scientific-thinking-literature-review) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/scientific-thinking-literature-review) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [seo](https://skillsmp.com/creators/affaan-m/ecc/skills-seo) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/seo) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
-
-* [one-three-one-rule](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-communication-one-three-one-rule) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/communication/one-three-one-rule) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/seo) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [doc-coauthoring](https://skillsmp.com/creators/anthropics/skills/skills-doc-coauthoring) — by anthropics
-  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) ⭐ 169,547 | 🐛 1,101 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring) ⭐ 169,735 | 🐛 1,112 | 🌐 Python | 📅 2026-08-13
 
 * [insight-error-page](https://skillsmp.com/creators/vercel/next.js/agents-skills-insight-error-page) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/insight-error-page) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/insight-error-page) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [write-guide](https://skillsmp.com/creators/vercel/next.js/agents-skills-write-guide) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/write-guide) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/write-guide) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [critique](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-gemini-cli-bot-gemini-skills-critique) — by google-gemini
-  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique) ⭐ 106,529 | 🐛 842 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/gemini-cli-bot/.gemini/skills/critique) ⭐ 106,532 | 🐛 846 | 🌐 TypeScript | 📅 2026-08-16
 
 * [adev-writing-guide](https://skillsmp.com/creators/angular/angular/agent-skills-adev-writing-guide) — by angular
-  * [GitHub](https://github.com/angular/angular/tree/main/.agent/skills/adev-writing-guide) ⭐ 101,009 | 🐛 1,171 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/angular/angular/tree/main/.agent/skills/adev-writing-guide) ⭐ 101,020 | 🐛 1,166 | 🌐 TypeScript | 📅 2026-08-14
 
 * [caveman](https://skillsmp.com/creators/juliusbrussee/caveman/plugins-caveman-skills-caveman) — by JuliusBrussee
-  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/caveman) ⭐ 98,388 | 🐛 485 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/caveman) ⭐ 98,532 | 🐛 481 | 🌐 Go | 📅 2026-08-16
 
 * [caveman](https://skillsmp.com/creators/juliusbrussee/caveman/skills-caveman) — by JuliusBrussee
-  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/caveman) ⭐ 98,388 | 🐛 485 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/caveman) ⭐ 98,532 | 🐛 481 | 🌐 Go | 📅 2026-08-16
 
 * [caveman-compress](https://skillsmp.com/creators/juliusbrussee/caveman/plugins-caveman-skills-caveman-compress) — by JuliusBrussee
-  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/caveman-compress) ⭐ 98,388 | 🐛 485 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/plugins/caveman/skills/caveman-compress) ⭐ 98,532 | 🐛 481 | 🌐 Go | 📅 2026-08-16
 
 * [caveman-compress](https://skillsmp.com/creators/juliusbrussee/caveman/skills-caveman-compress) — by JuliusBrussee
-  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/caveman-compress) ⭐ 98,388 | 🐛 485 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/caveman-compress) ⭐ 98,532 | 🐛 481 | 🌐 Go | 📅 2026-08-16
 
 * [what-the](https://skillsmp.com/creators/thedotmack/claude-mem/plugin-skills-what-the) — by thedotmack
-  * [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the) ⭐ 90,827 | 🐛 446 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/what-the) ⭐ 90,899 | 🐛 211 | 🌐 JavaScript | 📅 2026-08-16
 
 * [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/design-templates-replit-deck) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/replit-deck) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/replit-deck) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [replit-deck](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-replit-deck) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/replit-deck) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/replit-deck) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [simplified-english](https://skillsmp.com/creators/paperclipai/paperclip/packages-skills-catalog-catalog-optional-content-simplified-english) — by paperclipai
-  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/simplified-english) ⭐ 78,285 | 🐛 5,078 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/simplified-english) ⭐ 78,487 | 🐛 5,102 | 🌐 TypeScript | 📅 2026-08-16
 
 * [docs-editor](https://skillsmp.com/creators/openai/openai-cookbook/codex-skills-docs-editor) — by openai
-  * [GitHub](https://github.com/openai/openai-cookbook/tree/main/.codex/skills/docs-editor) ⭐ 75,242 | 🐛 249 | 🌐 Jupyter Notebook | 📅 2026-08-15
+  * [GitHub](https://github.com/openai/openai-cookbook/tree/main/.codex/skills/docs-editor) ⭐ 75,261 | 🐛 243 | 🌐 Jupyter Notebook | 📅 2026-08-16
+
+* [robots-txt](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-robots-txt) — by thedaviddias
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/robots-txt) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [customs-trade-compliance](https://skillsmp.com/creators/affaan-m/ecc/skills-customs-trade-compliance) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/customs-trade-compliance) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/customs-trade-compliance) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [living-docs-governance](https://skillsmp.com/creators/affaan-m/ecc/skills-living-docs-governance) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/living-docs-governance) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [credential-recipe-research](https://skillsmp.com/creators/n8n-io/n8n/packages-n8n-instance-ai-skills-credential-recipe-research) — by n8n-io
-  * [GitHub](https://github.com/n8n-io/n8n/tree/master/packages/@n8n/instance-ai/skills/credential-recipe-research) ⭐ 200,762 | 🐛 1,302 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/n8n-io/n8n/tree/master/packages/%40n8n/instance-ai/skills/credential-recipe-research) ⭐ 200,895 | 🐛 1,303 | 🌐 TypeScript | 📅 2026-08-16
 
 * [natural-writing](https://skillsmp.com/creators/flutter/flutter/agents-agents-reidbaker-agent-skills-natural-writing) — by flutter
-  * [GitHub](https://github.com/flutter/flutter/tree/master/.agents/agents/reidbaker-agent/skills/natural-writing) ⭐ 178,393 | 🐛 13,130 | 🌐 Dart | 📅 2026-08-15
+  * [GitHub](https://github.com/flutter/flutter/tree/master/.agents/agents/reidbaker-agent/skills/natural-writing) ⭐ 178,429 | 🐛 13,149 | 🌐 Dart | 📅 2026-08-16
 
 * [write-api-reference](https://skillsmp.com/creators/vercel/next.js/agents-skills-write-api-reference) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/write-api-reference) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/write-api-reference) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [update-docs](https://skillsmp.com/creators/vercel/next.js/agents-skills-update-docs) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/update-docs) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/update-docs) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [release-note-generation](https://skillsmp.com/creators/microsoft/powertoys/github-skills-release-note-generation) — by microsoft
-  * [GitHub](https://github.com/microsoft/PowerToys/tree/main/.github/skills/release-note-generation) ⭐ 137,787 | 🐛 7,481 | 🌐 C | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/PowerToys/tree/main/.github/skills/release-note-generation) ⭐ 137,810 | 🐛 7,505 | 🌐 C | 📅 2026-08-16
 
 * [document-generate](https://skillsmp.com/creators/garrytan/gstack/document-generate) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/document-generate) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/document-generate) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [document-release](https://skillsmp.com/creators/garrytan/gstack/document-release) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/document-release) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/document-release) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [cloud](https://skillsmp.com/creators/browser-use/browser-use/skills-cloud) — by browser-use
-  * [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/cloud) ⭐ 109,333 | 🐛 357 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/cloud) ⭐ 109,430 | 🐛 354 | 🌐 Python | 📅 2026-08-16
 
 * [open-source](https://skillsmp.com/creators/browser-use/browser-use/skills-open-source) — by browser-use
-  * [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/open-source) ⭐ 109,333 | 🐛 357 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/browser-use/browser-use/tree/main/skills/open-source) ⭐ 109,430 | 🐛 354 | 🌐 Python | 📅 2026-08-16
 
-* [antigravity-support](https://skillsmp.com/creators/google-gemini/gemini-cli/packages-core-src-skills-builtin-antigravity-support) — by google-gemini
-  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/packages/core/src/skills/builtin/antigravity-support) ⭐ 106,529 | 🐛 842 | 🌐 TypeScript | 📅 2026-08-15
+* [review-the-docs](https://skillsmp.com/creators/supabase/supabase/agents-skills-review-the-docs) — by supabase
+  * [GitHub](https://github.com/supabase/supabase/tree/master/.agents/skills/review-the-docs) ⭐ 108,059 | 🐛 1,278 | 🌐 TypeScript | 📅 2026-08-16
 
 * [openai-whisper-api](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper-api) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [notion](https://skillsmp.com/creators/openclaw/openclaw/skills-notion) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [openai-whisper](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
-
-* [qqbot-channel](https://skillsmp.com/creators/openclaw/openclaw/extensions-qqbot-skills-qqbot-channel) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-channel) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [imsg](https://skillsmp.com/creators/openclaw/openclaw/extensions-imessage-skills-imsg) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/imessage/skills/imsg) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/imessage/skills/imsg) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [github](https://skillsmp.com/creators/openclaw/openclaw/extensions-oc-path-src-oc-path-tests-fixtures-real) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/oc-path/src/oc-path/tests/fixtures/real) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/oc-path/src/oc-path/tests/fixtures/real) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [github](https://skillsmp.com/creators/openclaw/openclaw/skills-github) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/github) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/github) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [oracle](https://skillsmp.com/creators/openclaw/openclaw/skills-oracle) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/oracle) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/oracle) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [trello](https://skillsmp.com/creators/openclaw/openclaw/skills-trello) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/trello) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/trello) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [xurl](https://skillsmp.com/creators/openclaw/openclaw/skills-xurl) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/xurl) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/xurl) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-es-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-connector-builder](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-api-connector-builder) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-connector-builder) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-connector-builder) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-tr-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [api-connector-builder](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-api-connector-builder) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/api-connector-builder) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 ### Content Creation & Marketing
 
 * [tavily](https://skillsmp.com/creators/openclaw/openclaw/extensions-tavily-skills-tavily) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/tavily/skills/tavily) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/tavily/skills/tavily) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [notion](https://skillsmp.com/creators/openclaw/openclaw/skills-notion) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
-
-* [qqbot-remind](https://skillsmp.com/creators/openclaw/openclaw/extensions-qqbot-skills-qqbot-remind) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-remind) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [taskflow](https://skillsmp.com/creators/openclaw/openclaw/skills-taskflow) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/taskflow) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
-
-* [qqbot-media](https://skillsmp.com/creators/openclaw/openclaw/extensions-qqbot-skills-qqbot-media) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-media) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/taskflow) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [compiler-port](https://skillsmp.com/creators/react/react/compiler-claude-skills-compiler-port) — by react
-  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-port) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-port) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [taste](https://skillsmp.com/creators/affaan-m/ecc/skills-taste) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/taste) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/taste) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [living-docs-governance](https://skillsmp.com/creators/affaan-m/ecc/skills-living-docs-governance) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/living-docs-governance) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-engine](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-content-engine) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/content-engine) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/content-engine) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-engine](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-content-engine) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/content-engine) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/content-engine) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-engine](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-content-engine) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/content-engine) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/content-engine) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-hash-cache-pattern](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-content-hash-cache-pattern) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/content-hash-cache-pattern) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/content-hash-cache-pattern) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-engine](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-content-engine) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/content-engine) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/content-engine) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-hash-cache-pattern](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-content-hash-cache-pattern) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/content-hash-cache-pattern) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/content-hash-cache-pattern) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-hash-cache-pattern](https://skillsmp.com/creators/affaan-m/ecc/kiro-skills-content-hash-cache-pattern) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.kiro/skills/content-hash-cache-pattern) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.kiro/skills/content-hash-cache-pattern) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-engine](https://skillsmp.com/creators/affaan-m/ecc/skills-content-engine) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/content-engine) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/content-engine) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [content-hash-cache-pattern](https://skillsmp.com/creators/affaan-m/ecc/skills-content-hash-cache-pattern) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/content-hash-cache-pattern) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/content-hash-cache-pattern) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [crosspost](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-crosspost) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/crosspost) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/crosspost) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [crosspost](https://skillsmp.com/creators/affaan-m/ecc/skills-crosspost) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/crosspost) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/crosspost) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [article-writing](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-article-writing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/article-writing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/article-writing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [brand-voice](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-brand-voice) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/brand-voice) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/brand-voice) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [article-writing](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-article-writing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/article-writing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/article-writing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [article-writing](https://skillsmp.com/creators/affaan-m/ecc/skills-article-writing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/article-writing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/article-writing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [weights-and-biases](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-mlops-evaluation-weights-and-biases) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/evaluation/weights-and-biases) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/evaluation/weights-and-biases) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [chrome-release-cls](https://skillsmp.com/creators/electron/electron/claude-skills-chrome-release-cls) — by electron
-  * [GitHub](https://github.com/electron/electron/tree/main/.claude/skills/chrome-release-cls) ⭐ 122,509 | 🐛 825 | 🌐 C++ | 📅 2026-08-15
+  * [GitHub](https://github.com/electron/electron/tree/main/.claude/skills/chrome-release-cls) ⭐ 122,518 | 🐛 831 | 🌐 C++ | 📅 2026-08-16
 
 * [chrome-release-verify](https://skillsmp.com/creators/electron/electron/claude-skills-chrome-release-verify) — by electron
-  * [GitHub](https://github.com/electron/electron/tree/main/.claude/skills/chrome-release-verify) ⭐ 122,509 | 🐛 825 | 🌐 C++ | 📅 2026-08-15
+  * [GitHub](https://github.com/electron/electron/tree/main/.claude/skills/chrome-release-verify) ⭐ 122,518 | 🐛 831 | 🌐 C++ | 📅 2026-08-16
 
 * [blog-post](https://skillsmp.com/creators/nexu-io/open-design/design-templates-blog-post) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/blog-post) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/blog-post) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [blog-post](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-blog-post) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/blog-post) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/blog-post) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [od-contribute](https://skillsmp.com/creators/nexu-io/open-design/claude-skills-od-contribute) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/.claude/skills/od-contribute) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/.claude/skills/od-contribute) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [release-announcement](https://skillsmp.com/creators/paperclipai/paperclip/packages-skills-catalog-catalog-optional-content-release-announcement) — by paperclipai
-  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/release-announcement) ⭐ 78,285 | 🐛 5,078 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/packages/skills-catalog/catalog/optional/content/release-announcement) ⭐ 78,487 | 🐛 5,102 | 🌐 TypeScript | 📅 2026-08-16
 
 * [editorial-policy](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-editorial-policy) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/editorial-policy) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/editorial-policy) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [share-buttons](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-share-buttons) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/share-buttons) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/share-buttons) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [slug-keywords](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-slug-keywords) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/slug-keywords) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/slug-keywords) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [content-dates](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-content-dates) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/content-dates) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/content-dates) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [pagination](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-pagination) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/pagination) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/pagination) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [faq](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-faq) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/faq) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/faq) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [word-count](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-word-count) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/word-count) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/word-count) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [h1](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-h1) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/h1) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/h1) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [quality](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-quality) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/quality) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/quality) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [reading-level](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-reading-level) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/reading-level) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/reading-level) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [internal-comms](https://skillsmp.com/creators/anthropics/skills/skills-internal-comms) — by anthropics
-  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/internal-comms) ⭐ 169,547 | 🐛 1,101 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/internal-comms) ⭐ 169,735 | 🐛 1,112 | 🌐 Python | 📅 2026-08-13
 
 * [email-marketing](https://skillsmp.com/creators/nexu-io/open-design/design-templates-email-marketing) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/email-marketing) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/email-marketing) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [email-marketing](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-email-marketing) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/email-marketing) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/email-marketing) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [newsletter-generation](https://skillsmp.com/creators/bytedance/deer-flow/skills-public-newsletter-generation) — by bytedance
-  * [GitHub](https://github.com/bytedance/deer-flow/tree/main/skills/public/newsletter-generation) ⭐ 80,046 | 🐛 951 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/bytedance/deer-flow/tree/main/skills/public/newsletter-generation) ⭐ 80,098 | 🐛 948 | 🌐 Python | 📅 2026-08-16
 
 * [interstitials](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-interstitials) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/interstitials) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/interstitials) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [react-email](https://skillsmp.com/creators/novuhq/novu/agents-skills-react-email) — by novuhq
-  * [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email) ⭐ 39,572 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/novuhq/novu/tree/next/.agents/skills/react-email) ⭐ 39,590 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-16
+
+* [blog-ingest](https://skillsmp.com/creators/garrytan/gbrain/skills-blog-ingest) — by garrytan
+  * [GitHub](https://github.com/garrytan/gbrain/tree/master/skills/blog-ingest) ⭐ 28,560 | 🐛 446 | 🌐 TypeScript | 📅 2026-08-16
 
 * [testing-for-email-header-injection](https://skillsmp.com/creators/mukul975/anthropic-cybersecurity-skills/skills-testing-for-email-header-injection) — by mukul975
-  * [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection) ⭐ 27,829 | 🐛 46 | 🌐 Python | 📅 2026-08-08
+  * [GitHub](https://github.com/mukul975/Anthropic-Cybersecurity-Skills/tree/main/skills/testing-for-email-header-injection) ⭐ 27,978 | 🐛 46 | 🌐 Python | 📅 2026-08-08
 
 * [content-writer-agent](https://skillsmp.com/creators/mastra-ai/mastra/packages-editor-src-ee-workspace-skills-content-writer-agent) — by mastra-ai
-  * [GitHub](https://github.com/mastra-ai/mastra/tree/main/packages/editor/src/ee/workspace/skills/content-writer-agent) ⭐ 27,215 | 🐛 454 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/mastra-ai/mastra/tree/main/packages/editor/src/ee/workspace/skills/content-writer-agent) ⭐ 27,230 | 🐛 474 | 🌐 TypeScript | 📅 2026-08-16
 
 * [team-communications](https://skillsmp.com/creators/alirezarezvani/claude-skills/project-management-skills-team-communications) — by alirezarezvani
-  * [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/project-management/skills/team-communications) ⭐ 24,466 | 🐛 30 | 🌐 Python | 📅 2026-08-09
+  * [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/project-management/skills/team-communications) ⭐ 24,524 | 🐛 31 | 🌐 Python | 📅 2026-08-09
 
 * [cold-email](https://skillsmp.com/creators/alirezarezvani/claude-skills/marketing-skill-skills-cold-email) — by alirezarezvani
-  * [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cold-email) ⭐ 24,466 | 🐛 30 | 🌐 Python | 📅 2026-08-09
+  * [GitHub](https://github.com/alirezarezvani/claude-skills/tree/main/marketing-skill/skills/cold-email) ⭐ 24,524 | 🐛 31 | 🌐 Python | 📅 2026-08-09
 
 * [content-creation](https://skillsmp.com/creators/anthropics/knowledge-work-plugins/marketing-skills-content-creation) — by anthropics
-  * [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/content-creation) ⭐ 23,494 | 🐛 67 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/content-creation) ⭐ 23,514 | 🐛 67 | 🌐 Python | 📅 2026-08-16
 
 * [draft-content](https://skillsmp.com/creators/anthropics/knowledge-work-plugins/marketing-skills-draft-content) — by anthropics
-  * [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/draft-content) ⭐ 23,494 | 🐛 67 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/anthropics/knowledge-work-plugins/tree/main/marketing/skills/draft-content) ⭐ 23,514 | 🐛 67 | 🌐 Python | 📅 2026-08-16
 
 * [agent-first-screenshots](https://skillsmp.com/creators/different-ai/openwork/opencode-skills-agent-first-screenshots) — by different-ai
-  * [GitHub](https://github.com/different-ai/openwork/tree/dev/.opencode/skills/agent-first-screenshots) ⭐ 22,312 | 🐛 340 | 🌐 TypeScript | 📅 2026-08-15
-
-* [aphorisms](https://skillsmp.com/creators/danielmiessler/lifeos/lifeos-install-skills-aphorisms) — by danielmiessler
-  * [GitHub](https://github.com/danielmiessler/LifeOS/tree/main/LifeOS/install/skills/Aphorisms) ⭐ 18,527 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/different-ai/openwork/tree/dev/.opencode/skills/agent-first-screenshots) ⭐ 22,432 | 🐛 344 | 🌐 TypeScript | 📅 2026-08-16
 
 ### Speaking & Presentations
 
 * [openclaw-refactor-docs](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-refactor-docs) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-refactor-docs) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-refactor-docs) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [frontend-slides](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-frontend-slides) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/frontend-slides) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/frontend-slides) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [frontend-slides](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-frontend-slides) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/frontend-slides) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/frontend-slides) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [frontend-slides](https://skillsmp.com/creators/affaan-m/ecc/skills-frontend-slides) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/frontend-slides) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/frontend-slides) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [pptx](https://skillsmp.com/creators/anthropics/skills/skills-pptx) — by anthropics
-  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 169,547 | 🐛 1,101 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/anthropics/skills/tree/main/skills/pptx) ⭐ 169,735 | 🐛 1,112 | 🌐 Python | 📅 2026-08-13
 
 * [slides](https://skillsmp.com/creators/nextlevelbuilder/ui-ux-pro-max-skill/claude-skills-slides) — by nextlevelbuilder
-  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/slides) ⭐ 117,023 | 🐛 80 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/slides) ⭐ 117,307 | 🐛 81 | 🌐 Python | 📅 2026-08-13
 
 * [design](https://skillsmp.com/creators/nextlevelbuilder/ui-ux-pro-max-skill/claude-skills-design) — by nextlevelbuilder
-  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) ⭐ 117,023 | 🐛 80 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design) ⭐ 117,307 | 🐛 81 | 🌐 Python | 📅 2026-08-13
 
 * [design-system](https://skillsmp.com/creators/nextlevelbuilder/ui-ux-pro-max-skill/claude-skills-design-system) — by nextlevelbuilder
-  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design-system) ⭐ 117,023 | 🐛 80 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/design-system) ⭐ 117,307 | 🐛 81 | 🌐 Python | 📅 2026-08-13
+
+* [migration](https://skillsmp.com/creators/juliusbrussee/caveman/skills-migration) — by JuliusBrussee
+  * [GitHub](https://github.com/JuliusBrussee/caveman/tree/main/skills/migration) ⭐ 98,532 | 🐛 481 | 🌐 Go | 📅 2026-08-16
 
 * [humanize-ppt](https://skillsmp.com/creators/nexu-io/open-design/plugins-community-humanize-ppt) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/humanize-ppt) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/humanize-ppt) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [clinical-case-report](https://skillsmp.com/creators/nexu-io/open-design/design-templates-clinical-case-report) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/clinical-case-report) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/clinical-case-report) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [clinical-case-report](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-clinical-case-report) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/clinical-case-report) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/clinical-case-report) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-retro-quarterly-review](https://skillsmp.com/creators/nexu-io/open-design/skills-html-ppt-retro-quarterly-review) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/html-ppt-retro-quarterly-review) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/html-ppt-retro-quarterly-review) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [slides](https://skillsmp.com/creators/nexu-io/open-design/skills-slides) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/slides) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/slides) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [swiss-creative-mode-template](https://skillsmp.com/creators/nexu-io/open-design/skills-swiss-creative-mode-template) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/swiss-creative-mode-template) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/swiss-creative-mode-template) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [frontend-slides](https://skillsmp.com/creators/nexu-io/open-design/skills-frontend-slides) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/frontend-slides) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/frontend-slides) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [pptx-generator](https://skillsmp.com/creators/nexu-io/open-design/skills-pptx-generator) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/pptx-generator) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/pptx-generator) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [after-hours-editorial-template](https://skillsmp.com/creators/nexu-io/open-design/skills-after-hours-editorial-template) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/after-hours-editorial-template) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/after-hours-editorial-template) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [marketing-psychology](https://skillsmp.com/creators/nexu-io/open-design/skills-marketing-psychology) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/marketing-psychology) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/marketing-psychology) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [image-enhancer](https://skillsmp.com/creators/nexu-io/open-design/skills-image-enhancer) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/image-enhancer) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [data-scraper-agent](https://skillsmp.com/creators/affaan-m/ecc/skills-data-scraper-agent) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/data-scraper-agent) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/data-scraper-agent) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [hermes-imports](https://skillsmp.com/creators/affaan-m/ecc/skills-hermes-imports) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/hermes-imports) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/hermes-imports) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [opensource-pipeline](https://skillsmp.com/creators/affaan-m/ecc/skills-opensource-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/opensource-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/opensource-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [project-flow-ops](https://skillsmp.com/creators/affaan-m/ecc/skills-project-flow-ops) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [research-ops](https://skillsmp.com/creators/affaan-m/ecc/skills-research-ops) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/research-ops) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/research-ops) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [opensource-pipeline](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-opensource-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/opensource-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/opensource-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [opensource-pipeline](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-opensource-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/opensource-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/opensource-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [osint-investigation](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-research-osint-investigation) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/osint-investigation) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/osint-investigation) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [n8n-public-api](https://skillsmp.com/creators/n8n-io/n8n/agents-skills-public-api) — by n8n-io
-  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/public-api) ⭐ 200,762 | 🐛 1,302 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/public-api) ⭐ 200,895 | 🐛 1,303 | 🌐 TypeScript | 📅 2026-08-16
 
 * [sweeper-fix](https://skillsmp.com/creators/microsoft/vscode/github-skills-sweeper-fix) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/sweeper-fix) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/sweeper-fix) ⭐ 188,804 | 🐛 19,869 | 🌐 TypeScript | 📅 2026-08-16
 
 * [scope-creep-detector](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-scope-creep-detector) — by Shubhamsaboo
-  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/scope-creep-detector) ⭐ 132,743 | 🐛 14 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/scope-creep-detector) ⭐ 132,876 | 🐛 19 | 🌐 Python | 📅 2026-08-13
 
 * [document-public-apis](https://skillsmp.com/creators/pytorch/pytorch/claude-skills-document-public-apis) — by pytorch
-  * [GitHub](https://github.com/pytorch/pytorch/tree/main/.claude/skills/document-public-apis) ⭐ 102,390 | 🐛 17,321 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/pytorch/pytorch/tree/main/.claude/skills/document-public-apis) ⭐ 102,430 | 🐛 17,329 | 🌐 Python | 📅 2026-08-16
+
+* [api-and-interface-design](https://skillsmp.com/creators/addyosmani/agent-skills/skills-api-and-interface-design) — by addyosmani
+  * [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/api-and-interface-design) ⭐ 87,725 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-14
+
+* [documentation-and-adrs](https://skillsmp.com/creators/addyosmani/agent-skills/skills-documentation-and-adrs) — by addyosmani
+  * [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/documentation-and-adrs) ⭐ 87,725 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-14
 
 * [html-ppt-zhangzara-peoples-platform](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-peoples-platform) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-peoples-platform) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-peoples-platform) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-zhangzara-peoples-platform](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-zhangzara-peoples-platform) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-peoples-platform) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-peoples-platform) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [x-research](https://skillsmp.com/creators/nexu-io/open-design/design-templates-x-research) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/x-research) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/x-research) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [x-research](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-x-research) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/x-research) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/x-research) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [dcf-valuation](https://skillsmp.com/creators/nexu-io/open-design/design-templates-dcf-valuation) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/dcf-valuation) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/dcf-valuation) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-zhangzara-grove](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-grove) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-grove) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [dcf-valuation](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-dcf-valuation) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/dcf-valuation) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [html-ppt-zhangzara-grove](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-zhangzara-grove) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-grove) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [openclaw-landable-bug-sweep](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-landable-bug-sweep) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-landable-bug-sweep) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-grove) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [santa-method](https://skillsmp.com/creators/affaan-m/ecc/skills-santa-method) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/santa-method) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/santa-method) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [continuous-learning-v2](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-tw-skills-continuous-learning-v2) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-TW/skills/continuous-learning-v2) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-TW/skills/continuous-learning-v2) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [continuous-learning-v2](https://skillsmp.com/creators/affaan-m/ecc/skills-continuous-learning-v2) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/continuous-learning-v2) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/continuous-learning-v2) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [regex-vs-llm-structured-text](https://skillsmp.com/creators/affaan-m/ecc/skills-regex-vs-llm-structured-text) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/regex-vs-llm-structured-text) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/regex-vs-llm-structured-text) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [sandbox-bench](https://skillsmp.com/creators/vercel/next.js/agents-skills-sandbox-bench) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/sandbox-bench) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
-
-* [build-test](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-atoms-build-test) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/atoms/build-test) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [research-decision-room](https://skillsmp.com/creators/nexu-io/open-design/skills-research-decision-room) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/research-decision-room) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/sandbox-bench) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [interview-me](https://skillsmp.com/creators/addyosmani/agent-skills/skills-interview-me) — by addyosmani
-  * [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me) ⭐ 87,476 | 🐛 103 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/addyosmani/agent-skills/tree/main/skills/interview-me) ⭐ 87,725 | 🐛 106 | 🌐 JavaScript | 📅 2026-08-14
+
+* [build-test](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-atoms-build-test) — by nexu-io
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/atoms/build-test) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
+
+* [research-decision-room](https://skillsmp.com/creators/nexu-io/open-design/skills-research-decision-room) — by nexu-io
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/research-decision-room) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [harness-genome](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-metaharness-skills-harness-genome) — by ruvnet
-  * [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-metaharness/skills/harness-genome) ⭐ 67,927 | 🐛 828 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-metaharness/skills/harness-genome) ⭐ 67,994 | 🐛 832 | 🌐 TypeScript | 📅 2026-08-16
 
 * [trader-train](https://skillsmp.com/creators/ruvnet/ruflo/plugins-ruflo-neural-trader-skills-trader-train) — by ruvnet
-  * [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-neural-trader/skills/trader-train) ⭐ 67,927 | 🐛 828 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/ruvnet/ruflo/tree/main/plugins/ruflo-neural-trader/skills/trader-train) ⭐ 67,994 | 🐛 832 | 🌐 TypeScript | 📅 2026-08-16
 
 * [code-review](https://skillsmp.com/creators/asgeirtj/system_prompts_leaks/anthropic-claude-code-bundled-skills-code-review) — by asgeirtj
-  * \[GitHub]\(<https://github.com/asgeirtj/system_prompts_leaks/tree/main/Anthropic/Claude> ⭐ 62,963 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-15 Code/bundled-skills/code-review)
+  * [GitHub](https://github.com/asgeirtj/system_prompts_leaks/tree/main/Anthropic/Claude%20Code/bundled-skills/code-review) ⭐ 63,012 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-15
+
+* [bmad-forge-idea](https://skillsmp.com/creators/bmad-code-org/bmad-method/src-core-skills-bmad-forge-idea) — by bmad-code-org
+  * [GitHub](https://github.com/bmad-code-org/BMAD-METHOD/tree/main/src/core-skills/bmad-forge-idea) ⭐ 51,966 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-16
 
 * [slidev](https://skillsmp.com/creators/slidevjs/slidev/skills-slidev) — by slidevjs
-  * [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev) ⭐ 48,097 | 🐛 207 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/slidevjs/slidev/tree/main/skills/slidev) ⭐ 48,105 | 🐛 207 | 🌐 TypeScript | 📅 2026-08-14
 
 * [aip-tracker](https://skillsmp.com/creators/apache/airflow/providers-common-ai-src-airflow-providers-common-ai-example-dags-skills-aip-tracker) — by apache
-  * [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker) ⭐ 46,502 | 🐛 1,858 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/apache/airflow/tree/main/providers/common/ai/src/airflow/providers/common/ai/example_dags/skills/aip-tracker) ⭐ 46,508 | 🐛 1,880 | 🌐 Python | 📅 2026-08-16
 
 * [dependabot-triager](https://skillsmp.com/creators/cli/cli/github-skills-dependabot-triager) — by cli
-  * [GitHub](https://github.com/cli/cli/tree/trunk/.github/skills/dependabot-triager) ⭐ 45,830 | 🐛 1,064 | 🌐 Go | 📅 2026-08-14
-
-* [agents-generator](https://skillsmp.com/creators/sickn33/agentic-awesome-skills/skills-agents-generator) — by sickn33
-  * [GitHub](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/agents-generator) ⭐ 44,992 | 🐛 5 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/cli/cli/tree/trunk/.github/skills/dependabot-triager) ⭐ 45,842 | 🐛 1,064 | 🌐 Go | 📅 2026-08-14
 
 * [pr-review](https://skillsmp.com/creators/saadeghi/daisyui/agents-skills-pr-review) — by saadeghi
-  * [GitHub](https://github.com/saadeghi/daisyui/tree/master/.agents/skills/pr-review) ⭐ 42,085 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/saadeghi/daisyui/tree/master/.agents/skills/pr-review) ⭐ 42,094 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-16
 
 * [e2e-testing-patterns](https://skillsmp.com/creators/wshobson/agents/plugins-developer-essentials-skills-e2e-testing-patterns) — by wshobson
-  * [GitHub](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns) ⭐ 38,833 | 🐛 12 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns) ⭐ 38,855 | 🐛 10 | 🌐 Python | 📅 2026-08-15
+
+* [qa-team](https://skillsmp.com/creators/posthog/posthog/agents-skills-qa-team) — by PostHog
+  * [GitHub](https://github.com/PostHog/posthog/tree/master/.agents/skills/qa-team) ⭐ 37,713 | 🐛 5,329 | 🌐 Python | 📅 2026-08-16
 
 ### Community Building
 
 * [n8n-community-pr-readiness-check](https://skillsmp.com/creators/n8n-io/n8n/agents-skills-community-pr-readiness-check) — by n8n-io
-  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/community-pr-readiness-check) ⭐ 200,762 | 🐛 1,302 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/community-pr-readiness-check) ⭐ 200,895 | 🐛 1,303 | 🌐 TypeScript | 📅 2026-08-16
 
 * [n8n-create-community-node-lint-rule](https://skillsmp.com/creators/n8n-io/n8n/agents-skills-create-community-node-lint-rule) — by n8n-io
-  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/create-community-node-lint-rule) ⭐ 200,762 | 🐛 1,302 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/n8n-io/n8n/tree/master/.agents/skills/create-community-node-lint-rule) ⭐ 200,895 | 🐛 1,303 | 🌐 TypeScript | 📅 2026-08-16
 
 * [add-community-extension](https://skillsmp.com/creators/github/spec-kit/github-skills-add-community-extension) — by github
-  * [GitHub](https://github.com/github/spec-kit/tree/main/.github/skills/add-community-extension) ⭐ 129,116 | 🐛 331 | 🌐 Python | 📅 2026-08-14
+  * [GitHub](https://github.com/github/spec-kit/tree/main/.github/skills/add-community-extension) ⭐ 129,514 | 🐛 336 | 🌐 Python | 📅 2026-08-14
 
 * [graphify](https://skillsmp.com/creators/graphify-labs/graphify/graphify) — by Graphify-Labs
-  * [GitHub](https://github.com/Graphify-Labs/graphify/tree/v8/graphify) ⭐ 106,655 | 🐛 959 | 🌐 Python | 📅 2026-08-14
+  * [GitHub](https://github.com/Graphify-Labs/graphify/tree/v8/graphify) ⭐ 107,052 | 🐛 964 | 🌐 Python | 📅 2026-08-16
 
 * [go-naming](https://skillsmp.com/creators/infiniflow/ragflow/agents-skills-go-naming) — by infiniflow
-  * [GitHub](https://github.com/infiniflow/ragflow/tree/main/.agents/skills/go-naming) ⭐ 88,548 | 🐛 1,788 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/infiniflow/ragflow/tree/main/.agents/skills/go-naming) ⭐ 88,599 | 🐛 1,809 | 🌐 Go | 📅 2026-08-16
 
 * [community-import-smoke-test](https://skillsmp.com/creators/nexu-io/open-design/plugins-community-import-smoke-test) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/import-smoke-test) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/import-smoke-test) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [community-registry-starter](https://skillsmp.com/creators/nexu-io/open-design/plugins-community-registry-starter) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/registry-starter) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/community/registry-starter) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [od-share-to-community](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-scenarios-od-share-to-community) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/scenarios/od-share-to-community) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/scenarios/od-share-to-community) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [last30days](https://skillsmp.com/creators/nexu-io/open-design/design-templates-last30days) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/last30days) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/last30days) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [last30days](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-last30days) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/last30days) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/last30days) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-zhangzara-coral](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-coral) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-coral) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-coral) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-zhangzara-coral](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-zhangzara-coral) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-coral) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-zhangzara-coral) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [huashu-annual-letter](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-huashu-annual-letter) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/huashu-annual-letter) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/huashu-annual-letter) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [dating-web](https://skillsmp.com/creators/nexu-io/open-design/design-templates-dating-web) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/dating-web) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/dating-web) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [dating-web](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-dating-web) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/dating-web) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/dating-web) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [od-plugin-contribute-open-design](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-od-plugin-contribute-open-design) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/od-plugin-contribute-open-design) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/od-plugin-contribute-open-design) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-presenter-mode](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-presenter-mode-reveal) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-tech-sharing](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-tech-sharing) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-tech-sharing) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-tech-sharing) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-xhs-pastel-card](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-xhs-pastel-card) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-xhs-pastel-card) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-xhs-pastel-card) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-zhangzara-8-bit-orbit](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-zhangzara-8-bit-orbit) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-8-bit-orbit) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-zhangzara-8-bit-orbit) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [discord-user-post](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-discord-user-post) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discord-user-post) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discord-user-post) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [discord](https://skillsmp.com/creators/openclaw/openclaw/extensions-discord-skills-discord) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/discord/skills/discord) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/discord/skills/discord) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [discord-clawd](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-discord-clawd) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discord-clawd) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discord-clawd) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [parallels-discord-roundtrip](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-parallels-discord-roundtrip) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/parallels-discord-roundtrip) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/parallels-discord-roundtrip) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [discrawl](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-discrawl) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discrawl) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/discrawl) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [release-openclaw-announcement](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-release-openclaw-announcement) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/release-openclaw-announcement) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/release-openclaw-announcement) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [social-publisher](https://skillsmp.com/creators/affaan-m/ecc/skills-social-publisher) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/social-publisher) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/social-publisher) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-testing-bot](https://skillsmp.com/creators/lobehub/lobehub/agents-skills-agent-testing-bot) — by lobehub
-  * [GitHub](https://github.com/lobehub/lobehub/tree/canary/.agents/skills/agent-testing-bot) ⭐ 81,718 | 🐛 743 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/lobehub/lobehub/tree/canary/.agents/skills/agent-testing-bot) ⭐ 81,748 | 🐛 743 | 🌐 TypeScript | 📅 2026-08-16
 
 * [chat-sdk](https://skillsmp.com/creators/lobehub/lobehub/agents-skills-chat-sdk) — by lobehub
-  * [GitHub](https://github.com/lobehub/lobehub/tree/canary/.agents/skills/chat-sdk) ⭐ 81,718 | 🐛 743 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/lobehub/lobehub/tree/canary/.agents/skills/chat-sdk) ⭐ 81,748 | 🐛 743 | 🌐 TypeScript | 📅 2026-08-16
 
 * [release-changelog-discord-message](https://skillsmp.com/creators/paperclipai/paperclip/agents-skills-release-changelog-discord-message) — by paperclipai
-  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/release-changelog-discord-message) ⭐ 78,285 | 🐛 5,078 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/paperclipai/paperclip/tree/master/.agents/skills/release-changelog-discord-message) ⭐ 78,487 | 🐛 5,102 | 🌐 TypeScript | 📅 2026-08-16
 
 * [dotcom-release-marketing](https://skillsmp.com/creators/tldraw/tldraw/skills-dotcom-release-marketing) — by tldraw
-  * [GitHub](https://github.com/tldraw/tldraw/tree/main/skills/dotcom-release-marketing) ⭐ 49,789 | 🐛 437 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/tldraw/tldraw/tree/main/skills/dotcom-release-marketing) ⭐ 49,802 | 🐛 438 | 🌐 TypeScript | 📅 2026-08-16
 
 * [community-marketing](https://skillsmp.com/creators/coreyhaines31/marketingskills/skills-community-marketing) — by coreyhaines31
-  * [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing) ⭐ 44,398 | 🐛 93 | 🌐 JavaScript | 📅 2026-07-29
+  * [GitHub](https://github.com/coreyhaines31/marketingskills/tree/main/skills/community-marketing) ⭐ 44,503 | 🐛 93 | 🌐 JavaScript | 📅 2026-07-29
 
 * [electron](https://skillsmp.com/creators/vercel-labs/agent-browser/skill-data-electron) — by vercel-labs
-  * [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skill-data/electron) ⭐ 40,670 | 🐛 655 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skill-data/electron) ⭐ 40,718 | 🐛 659 | 🌐 Rust | 📅 2026-08-15
 
 * [agent-browser](https://skillsmp.com/creators/vercel-labs/agent-browser/skills-agent-browser) — by vercel-labs
-  * [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser) ⭐ 40,670 | 🐛 655 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel-labs/agent-browser/tree/main/skills/agent-browser) ⭐ 40,718 | 🐛 659 | 🌐 Rust | 📅 2026-08-15
 
 * [add-channel-connect-button](https://skillsmp.com/creators/novuhq/novu/cursor-skills-add-channel-connect-button) — by novuhq
-  * [GitHub](https://github.com/novuhq/novu/tree/next/.cursor/skills/add-channel-connect-button) ⭐ 39,572 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/novuhq/novu/tree/next/.cursor/skills/add-channel-connect-button) ⭐ 39,590 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-16
 
 * [social-publishing](https://skillsmp.com/creators/wshobson/agents/plugins-social-publishing-skills-social-publishing) — by wshobson
-  * [GitHub](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing) ⭐ 38,833 | 🐛 12 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/wshobson/agents/tree/main/plugins/social-publishing/skills/social-publishing) ⭐ 38,855 | 🐛 10 | 🌐 Python | 📅 2026-08-15
 
 * [configure-notifications](https://skillsmp.com/creators/yeachan-heo/oh-my-claudecode/skills-configure-notifications) — by Yeachan-Heo
-  * [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/configure-notifications) ⭐ 38,575 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/Yeachan-Heo/oh-my-claudecode/tree/main/skills/configure-notifications) ⭐ 38,596 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-16
 
 * [configure](https://skillsmp.com/creators/anthropics/claude-plugins-official/external-plugins-discord-skills-configure) — by anthropics
-  * [GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/discord/skills/configure) ⭐ 33,550 | 🐛 905 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/discord/skills/configure) ⭐ 33,586 | 🐛 907 | 🌐 Python | 📅 2026-08-16
 
 ### Code Review & Developer Tools
 
 * [autoreview](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-autoreview) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/autoreview) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
-
-* [openclaw-small-bugfix-sweep](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-small-bugfix-sweep) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-small-bugfix-sweep) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/autoreview) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [acp-router](https://skillsmp.com/creators/openclaw/openclaw/extensions-acpx-skills-acp-router) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/acpx/skills/acp-router) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/acpx/skills/acp-router) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [coding-agent](https://skillsmp.com/creators/openclaw/openclaw/skills-coding-agent) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/coding-agent) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [openclaw-debugging](https://skillsmp.com/creators/openclaw/openclaw/agents-skills-openclaw-debugging) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-debugging) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/.agents/skills/openclaw-debugging) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [node-connect](https://skillsmp.com/creators/openclaw/openclaw/skills-node-connect) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/node-connect) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/node-connect) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [receiving-code-review](https://skillsmp.com/creators/obra/superpowers/skills-receiving-code-review) — by obra
-  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review) ⭐ 272,473 | 🐛 336 | 🌐 Shell | 📅 2026-08-13
+  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/receiving-code-review) ⭐ 272,777 | 🐛 340 | 🌐 Shell | 📅 2026-08-13
 
 * [requesting-code-review](https://skillsmp.com/creators/obra/superpowers/skills-requesting-code-review) — by obra
-  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) ⭐ 272,473 | 🐛 336 | 🌐 Shell | 📅 2026-08-13
+  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/requesting-code-review) ⭐ 272,777 | 🐛 340 | 🌐 Shell | 📅 2026-08-13
 
 * [test-driven-development](https://skillsmp.com/creators/obra/superpowers/skills-test-driven-development) — by obra
-  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 272,473 | 🐛 336 | 🌐 Shell | 📅 2026-08-13
+  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/test-driven-development) ⭐ 272,777 | 🐛 340 | 🌐 Shell | 📅 2026-08-13
 
 * [writing-plans](https://skillsmp.com/creators/obra/superpowers/skills-writing-plans) — by obra
-  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/writing-plans) ⭐ 272,473 | 🐛 336 | 🌐 Shell | 📅 2026-08-13
+  * [GitHub](https://github.com/obra/superpowers/tree/main/skills/writing-plans) ⭐ 272,777 | 🐛 340 | 🌐 Shell | 📅 2026-08-13
 
 * [compiler-review](https://skillsmp.com/creators/react/react/compiler-claude-skills-compiler-review) — by react
-  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-review) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-review) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [extract-errors](https://skillsmp.com/creators/react/react/claude-skills-extract-errors) — by react
-  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/extract-errors) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/extract-errors) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [fix](https://skillsmp.com/creators/react/react/claude-skills-fix) — by react
-  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/fix) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/fix) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [flow](https://skillsmp.com/creators/react/react/claude-skills-flow) — by react
-  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/flow) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/.claude/skills/flow) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [compiler-verify](https://skillsmp.com/creators/react/react/compiler-claude-skills-compiler-verify) — by react
-  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-verify) ⭐ 247,256 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
+  * [GitHub](https://github.com/react/react/tree/main/compiler/.claude/skills/compiler-verify) ⭐ 247,304 | 🐛 1,249 | 🌐 JavaScript | 📅 2026-08-14
 
 * [flutter-dart-code-review](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-flutter-dart-code-review) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/flutter-dart-code-review) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/flutter-dart-code-review) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [flutter-dart-code-review](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-flutter-dart-code-review) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/flutter-dart-code-review) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/flutter-dart-code-review) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [flutter-dart-code-review](https://skillsmp.com/creators/affaan-m/ecc/skills-flutter-dart-code-review) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flutter-dart-code-review) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flutter-dart-code-review) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [intent-driven-development](https://skillsmp.com/creators/affaan-m/ecc/skills-intent-driven-development) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/intent-driven-development) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/intent-driven-development) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [codehealth-mcp](https://skillsmp.com/creators/affaan-m/ecc/skills-codehealth-mcp) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/codehealth-mcp) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
-
-* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-plankton-code-quality) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/plankton-code-quality) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
-
-* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-plankton-code-quality) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/plankton-code-quality) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
-
-* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/skills-plankton-code-quality) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/plankton-code-quality) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/codehealth-mcp) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [coding-standards](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-coding-standards) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/coding-standards) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/coding-standards) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-plankton-code-quality) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/plankton-code-quality) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-plankton-code-quality) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/plankton-code-quality) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [plankton-code-quality](https://skillsmp.com/creators/affaan-m/ecc/skills-plankton-code-quality) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/plankton-code-quality) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [coding-standards](https://skillsmp.com/creators/affaan-m/ecc/skills-coding-standards) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/coding-standards) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [django-verification](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-django-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/django-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/django-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [laravel-verification](https://skillsmp.com/creators/affaan-m/ecc/docs-tr-skills-laravel-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/laravel-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/laravel-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [laravel-verification](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-laravel-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/laravel-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/laravel-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [django-verification](https://skillsmp.com/creators/affaan-m/ecc/skills-django-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/django-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/django-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [laravel-verification](https://skillsmp.com/creators/affaan-m/ecc/skills-laravel-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/laravel-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/laravel-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [laravel-verification](https://skillsmp.com/creators/affaan-m/ecc/docs-es-skills-laravel-verification) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/laravel-verification) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/laravel-verification) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [project-flow-ops](https://skillsmp.com/creators/affaan-m/ecc/skills-project-flow-ops) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/project-flow-ops) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [product-price-monitor](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-productivity-product-price-monitor) — by NousResearch
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/product-price-monitor) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [scaffold-exercises](https://skillsmp.com/creators/mattpocock/skills/skills-misc-scaffold-exercises) — by mattpocock
-  * [GitHub](https://github.com/mattpocock/skills/tree/main/skills/misc/scaffold-exercises) ⭐ 218,297 | 🐛 352 | 🌐 Shell | 📅 2026-08-15
+  * [GitHub](https://github.com/mattpocock/skills/tree/main/skills/misc/scaffold-exercises) ⭐ 219,205 | 🐛 357 | 🌐 Shell | 📅 2026-08-16
 
 * [next-rspack](https://skillsmp.com/creators/vercel/next.js/agents-skills-next-rspack) — by vercel
-  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/next-rspack) ⭐ 141,786 | 🐛 4,231 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/vercel/next.js/tree/canary/.agents/skills/next-rspack) ⭐ 141,818 | 🐛 4,212 | 🌐 JavaScript | 📅 2026-08-16
 
 * [awesome-mac-maintainer](https://skillsmp.com/creators/jaywcjlove/awesome-mac/codex-skills-awesome-mac-maintainer) — by jaywcjlove
-  * [GitHub](https://github.com/jaywcjlove/awesome-mac/tree/master/.codex/skills/awesome-mac-maintainer) ⭐ 111,130 | 🐛 666 | 🌐 Swift | 📅 2026-08-14
+  * [GitHub](https://github.com/jaywcjlove/awesome-mac/tree/master/.codex/skills/awesome-mac-maintainer) ⭐ 111,197 | 🐛 672 | 🌐 Swift | 📅 2026-08-16
 
 * [docs-content](https://skillsmp.com/creators/supabase/supabase/claude-skills-docs-content) — by supabase
-  * [GitHub](https://github.com/supabase/supabase/tree/master/.claude/skills/docs-content) ⭐ 108,020 | 🐛 1,275 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/supabase/supabase/tree/master/.claude/skills/docs-content) ⭐ 108,059 | 🐛 1,278 | 🌐 TypeScript | 📅 2026-08-16
 
 * [fix-linting-types-on-pr](https://skillsmp.com/creators/storybookjs/storybook/agents-skills-fix-linting-types-on-pr) — by storybookjs
-  * [GitHub](https://github.com/storybookjs/storybook/tree/next/.agents/skills/fix-linting-types-on-pr) ⭐ 90,857 | 🐛 1,775 | 🌐 TypeScript | 📅 2026-08-14
+  * [GitHub](https://github.com/storybookjs/storybook/tree/next/.agents/skills/fix-linting-types-on-pr) ⭐ 90,859 | 🐛 1,777 | 🌐 TypeScript | 📅 2026-08-14
 
 * [ui-before-after](https://skillsmp.com/creators/stirling-tools/stirling-pdf/claude-skills-ui-before-after) — by Stirling-Tools
-  * [GitHub](https://github.com/Stirling-Tools/Stirling-PDF/tree/main/.claude/skills/ui-before-after) ⭐ 89,557 | 🐛 564 | 🌐 Java | 📅 2026-08-15
+  * [GitHub](https://github.com/Stirling-Tools/Stirling-PDF/tree/main/.claude/skills/ui-before-after) ⭐ 89,614 | 🐛 565 | 🌐 Java | 📅 2026-08-16
 
 * [query-netdata-cloud](https://skillsmp.com/creators/netdata/netdata/docs-netdata-ai-skills-query-netdata-cloud) — by netdata
-  * [GitHub](https://github.com/netdata/netdata/tree/master/docs/netdata-ai/skills/query-netdata-cloud) ⭐ 80,194 | 🐛 392 | 🌐 Go | 📅 2026-08-15
+  * [GitHub](https://github.com/netdata/netdata/tree/master/docs/netdata-ai/skills/query-netdata-cloud) ⭐ 80,204 | 🐛 415 | 🌐 Go | 📅 2026-08-16
 
 * [tel-mailto](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-tel-mailto) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/tel-mailto) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/tel-mailto) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [internal-links](https://skillsmp.com/creators/thedaviddias/front-end-checklist/skills-internal-links) — by thedaviddias
-  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/internal-links) ⭐ 73,539 | 🐛 4 | 🌐 MDX | 📅 2026-08-14
-
-* [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/notebooklm-agent-harness-cli-anything-notebooklm-skills) — by HKUDS
-  * [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/notebooklm/agent-harness/cli_anything/notebooklm/skills) ⭐ 47,291 | 🐛 84 | 🌐 Python | 📅 2026-08-13
-
-* [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/skills-cli-anything-notebooklm) — by HKUDS
-  * [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/skills/cli-anything-notebooklm) ⭐ 47,291 | 🐛 84 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/thedaviddias/Front-End-Checklist/tree/main/skills/internal-links) ⭐ 73,540 | 🐛 6 | 🌐 MDX | 📅 2026-08-14
 
 * [text-to-speech](https://skillsmp.com/creators/calesthio/openmontage/agents-skills-text-to-speech) — by calesthio
-  * [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/text-to-speech) ⭐ 48,208 | 🐛 218 | 🌐 Python | 📅 2026-08-14
+  * [GitHub](https://github.com/calesthio/OpenMontage/tree/main/.agents/skills/text-to-speech) ⭐ 48,353 | 🐛 218 | 🌐 Python | 📅 2026-08-14
+
+* [cli-anything-notebooklm](https://skillsmp.com/creators/hkuds/cli-anything/notebooklm-agent-harness-cli-anything-notebooklm-skills) — by HKUDS
+  * [GitHub](https://github.com/HKUDS/CLI-Anything/tree/main/notebooklm/agent-harness/cli_anything/notebooklm/skills) ⭐ 47,616 | 🐛 90 | 🌐 Python | 📅 2026-08-13
 
 ### AI & LLM Tools
 
 * [cost-aware-llm-pipeline](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-cost-aware-llm-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/cost-aware-llm-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/cost-aware-llm-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [llm-trading-agent-security](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-llm-trading-agent-security) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/llm-trading-agent-security) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/llm-trading-agent-security) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [cost-aware-llm-pipeline](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-cost-aware-llm-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/cost-aware-llm-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/cost-aware-llm-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [llm-trading-agent-security](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-llm-trading-agent-security) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/llm-trading-agent-security) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/llm-trading-agent-security) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [llm-trading-agent-security](https://skillsmp.com/creators/affaan-m/ecc/skills-llm-trading-agent-security) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/llm-trading-agent-security) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/llm-trading-agent-security) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [regex-vs-llm-structured-text](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-regex-vs-llm-structured-text) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/regex-vs-llm-structured-text) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/regex-vs-llm-structured-text) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [regex-vs-llm-structured-text](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-regex-vs-llm-structured-text) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/regex-vs-llm-structured-text) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/regex-vs-llm-structured-text) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [cost-aware-llm-pipeline](https://skillsmp.com/creators/affaan-m/ecc/skills-cost-aware-llm-pipeline) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/cost-aware-llm-pipeline) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/cost-aware-llm-pipeline) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [regex-vs-llm-structured-text](https://skillsmp.com/creators/affaan-m/ecc/skills-regex-vs-llm-structured-text) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/regex-vs-llm-structured-text) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/regex-vs-llm-structured-text) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-architecture-audit](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-agent-architecture-audit) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/agent-architecture-audit) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/agent-architecture-audit) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [foundation-models-on-device](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-foundation-models-on-device) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/foundation-models-on-device) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/foundation-models-on-device) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-architecture-audit](https://skillsmp.com/creators/affaan-m/ecc/skills-agent-architecture-audit) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [foundation-models-on-device](https://skillsmp.com/creators/affaan-m/ecc/skills-foundation-models-on-device) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/foundation-models-on-device) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/foundation-models-on-device) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [gateguard](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-gateguard) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/gateguard) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/gateguard) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [data-scraper-agent](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-data-scraper-agent) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/data-scraper-agent) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/data-scraper-agent) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [data-scraper-agent](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-data-scraper-agent) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/data-scraper-agent) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/data-scraper-agent) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [data-scraper-agent](https://skillsmp.com/creators/affaan-m/ecc/skills-data-scraper-agent) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/data-scraper-agent) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/data-scraper-agent) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [llm-wiki](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-research-llm-wiki) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/research/llm-wiki) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/research/llm-wiki) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [tensorrt-llm](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-mlops-tensorrt-llm) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/tensorrt-llm) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/tensorrt-llm) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
-* [distributed-llm-pretraining-torchtitan](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-mlops-torchtitan) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/torchtitan) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+* [serving-llms-vllm](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-mlops-inference-serving-llms-vllm) — by NousResearch
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/mlops/inference/serving-llms-vllm) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [gemini](https://skillsmp.com/creators/openclaw/openclaw/skills-gemini) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/gemini) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/gemini) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [tmux](https://skillsmp.com/creators/openclaw/openclaw/skills-tmux) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/tmux) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/tmux) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [prompt-optimizer](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-prompt-optimizer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/prompt-optimizer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/prompt-optimizer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [prompt-optimizer](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-prompt-optimizer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/prompt-optimizer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/prompt-optimizer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [prompt-optimizer](https://skillsmp.com/creators/affaan-m/ecc/skills-prompt-optimizer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/prompt-optimizer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/prompt-optimizer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [skill-comply](https://skillsmp.com/creators/affaan-m/ecc/skills-skill-comply) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/skill-comply) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/skill-comply) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ecc-recipes](https://skillsmp.com/creators/affaan-m/ecc/skills-ecc-recipes) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ecc-recipes) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ecc-recipes) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [openclaw-persona-forge](https://skillsmp.com/creators/affaan-m/ecc/skills-openclaw-persona-forge) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/openclaw-persona-forge) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [mcp-server-patterns](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-mcp-server-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/mcp-server-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/mcp-server-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [mcp-server-patterns](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-mcp-server-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/mcp-server-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/mcp-server-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [mcp-server-patterns](https://skillsmp.com/creators/affaan-m/ecc/skills-mcp-server-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/mcp-server-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/mcp-server-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [plan-orchestrate](https://skillsmp.com/creators/affaan-m/ecc/skills-plan-orchestrate) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/plan-orchestrate) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/plan-orchestrate) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [session-librarian](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-productivity-session-librarian) — by NousResearch
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/session-librarian) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [darwinian-evolver](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-research-darwinian-evolver) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/darwinian-evolver) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/research/darwinian-evolver) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [songwriting-and-ai-music](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-creative-songwriting-and-ai-music) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/songwriting-and-ai-music) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/creative/songwriting-and-ai-music) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [nano-pdf](https://skillsmp.com/creators/nousresearch/hermes-agent/skills-productivity-nano-pdf) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/nano-pdf) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/skills/productivity/nano-pdf) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [dspy](https://skillsmp.com/creators/nousresearch/hermes-agent/optional-skills-mlops-research-dspy) — by NousResearch
-  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/research/dspy) ⭐ 231,034 | 🐛 32,171 | 🌐 Python | 📅 2026-08-15
+  * [GitHub](https://github.com/NousResearch/hermes-agent/tree/main/optional-skills/mlops/research/dspy) ⭐ 231,449 | 🐛 32,403 | 🌐 Python | 📅 2026-08-16
 
 * [create-prompt](https://skillsmp.com/creators/microsoft/vscode/extensions-copilot-assets-prompts-skills-create-prompt) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/extensions/copilot/assets/prompts/skills/create-prompt) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
-
-* [agent-customization](https://skillsmp.com/creators/microsoft/vscode/extensions-copilot-assets-prompts-skills-agent-customization) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/extensions/copilot/assets/prompts/skills/agent-customization) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
-
-* [chat-customizations-editor](https://skillsmp.com/creators/microsoft/vscode/github-skills-chat-customizations-editor) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/chat-customizations-editor) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/vscode/tree/main/extensions/copilot/assets/prompts/skills/create-prompt) ⭐ 188,804 | 🐛 19,869 | 🌐 TypeScript | 📅 2026-08-16
 
 * [agent-harness-construction](https://skillsmp.com/creators/affaan-m/ecc/skills-agent-harness-construction) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-harness-construction) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-harness-construction) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-first-engineering](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-ai-first-engineering) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/ai-first-engineering) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/ai-first-engineering) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-regression-testing](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-ai-regression-testing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/ai-regression-testing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/ai-regression-testing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-first-engineering](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-ai-first-engineering) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/ai-first-engineering) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/ai-first-engineering) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-regression-testing](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-ai-regression-testing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/ai-regression-testing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/ai-regression-testing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-first-engineering](https://skillsmp.com/creators/affaan-m/ecc/skills-ai-first-engineering) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ai-first-engineering) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ai-first-engineering) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [ai-regression-testing](https://skillsmp.com/creators/affaan-m/ecc/skills-ai-regression-testing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ai-regression-testing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/ai-regression-testing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [fal-ai-media](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-fal-ai-media) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/fal-ai-media) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/fal-ai-media) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [fal-ai-media](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-fal-ai-media) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/fal-ai-media) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/fal-ai-media) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [fal-ai-media](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-fal-ai-media) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/fal-ai-media) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/fal-ai-media) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [fal-ai-media](https://skillsmp.com/creators/affaan-m/ecc/skills-fal-ai-media) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/fal-ai-media) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/fal-ai-media) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [video-editing](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-video-editing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/video-editing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/video-editing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-harness-construction](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-agent-harness-construction) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/agent-harness-construction) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/agent-harness-construction) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [lead-intelligence](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-lead-intelligence) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/lead-intelligence) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/lead-intelligence) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [video-editing](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-video-editing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/video-editing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/video-editing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [lead-intelligence](https://skillsmp.com/creators/affaan-m/ecc/skills-lead-intelligence) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/lead-intelligence) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/lead-intelligence) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [video-editing](https://skillsmp.com/creators/affaan-m/ecc/skills-video-editing) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/video-editing) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/video-editing) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [healthcare-eval-harness](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-healthcare-eval-harness) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/healthcare-eval-harness) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/healthcare-eval-harness) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-introspection-debugging](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-agent-introspection-debugging) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/agent-introspection-debugging) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/agent-introspection-debugging) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [dmux-workflows](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-dmux-workflows) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/dmux-workflows) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/dmux-workflows) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 ### API Design & Developer Experience
 
 * [oracle](https://skillsmp.com/creators/openclaw/openclaw/skills-oracle) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/oracle) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/oracle) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [openai-whisper-api](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper-api) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [notion](https://skillsmp.com/creators/openclaw/openclaw/skills-notion) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/notion) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [openai-whisper](https://skillsmp.com/creators/openclaw/openclaw/skills-openai-whisper) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
-
-* [qqbot-channel](https://skillsmp.com/creators/openclaw/openclaw/extensions-qqbot-skills-qqbot-channel) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/qqbot/skills/qqbot-channel) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [imsg](https://skillsmp.com/creators/openclaw/openclaw/extensions-imessage-skills-imsg) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/imessage/skills/imsg) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/imessage/skills/imsg) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [github](https://skillsmp.com/creators/openclaw/openclaw/extensions-oc-path-src-oc-path-tests-fixtures-real) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/oc-path/src/oc-path/tests/fixtures/real) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/extensions/oc-path/src/oc-path/tests/fixtures/real) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [github](https://skillsmp.com/creators/openclaw/openclaw/skills-github) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/github) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/github) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [trello](https://skillsmp.com/creators/openclaw/openclaw/skills-trello) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/trello) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/trello) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [xurl](https://skillsmp.com/creators/openclaw/openclaw/skills-xurl) — by openclaw
-  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/xurl) ⭐ 386,394 | 🐛 5,546 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/openclaw/openclaw/tree/main/skills/xurl) ⭐ 386,461 | 🐛 5,591 | 🌐 TypeScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-es-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/es/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-tr-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/tr/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/kiro-skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.kiro/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.kiro/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-design](https://skillsmp.com/creators/affaan-m/ecc/skills-api-design) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/api-design) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/api-design) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [backend-patterns](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-backend-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/backend-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/backend-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [backend-patterns](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-backend-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/backend-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/backend-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [django-patterns](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-django-patterns) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/django-patterns) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/django-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [backend-patterns](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-tw-skills-backend-patterns) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-TW/skills/backend-patterns) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/agents-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.agents/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/cursor-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/.cursor/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [documentation-lookup](https://skillsmp.com/creators/affaan-m/ecc/skills-documentation-lookup) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/documentation-lookup) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/documentation-lookup) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [api-connector-builder](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-api-connector-builder) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-connector-builder) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/api-connector-builder) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [api-connector-builder](https://skillsmp.com/creators/affaan-m/ecc/docs-zh-cn-skills-api-connector-builder) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/zh-CN/skills/api-connector-builder) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [flox-environments](https://skillsmp.com/creators/affaan-m/ecc/skills-flox-environments) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flox-environments) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/flox-environments) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [agent-architecture-audit](https://skillsmp.com/creators/affaan-m/ecc/skills-agent-architecture-audit) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/agent-architecture-audit) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [angular-developer](https://skillsmp.com/creators/affaan-m/ecc/docs-ja-jp-skills-angular-developer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/angular-developer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/docs/ja-JP/skills/angular-developer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [angular-developer](https://skillsmp.com/creators/affaan-m/ecc/skills-angular-developer) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/angular-developer) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/angular-developer) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
+
+* [dev-team](https://skillsmp.com/creators/affaan-m/ecc/skills-dev-team) — by affaan-m
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/dev-team) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [architecture-decision-records](https://skillsmp.com/creators/affaan-m/ecc/skills-architecture-decision-records) — by affaan-m
-  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/architecture-decision-records) ⭐ 240,272 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-15
+  * [GitHub](https://github.com/affaan-m/ECC/tree/main/skills/architecture-decision-records) ⭐ 240,469 | 🐛 122 | 🌐 JavaScript | 📅 2026-08-16
 
 * [otel](https://skillsmp.com/creators/microsoft/vscode/github-skills-otel) — by microsoft
-  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/otel) ⭐ 188,729 | 🐛 19,858 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/vscode/tree/main/.github/skills/otel) ⭐ 188,804 | 🐛 19,869 | 🌐 TypeScript | 📅 2026-08-16
 
 * [project-graveyard](https://skillsmp.com/creators/shubhamsaboo/awesome-llm-apps/agent-skills-project-graveyard) — by Shubhamsaboo
-  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard) ⭐ 132,743 | 🐛 14 | 🌐 Python | 📅 2026-08-13
+  * [GitHub](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/agent_skills/project-graveyard) ⭐ 132,876 | 🐛 19 | 🌐 Python | 📅 2026-08-13
 
 * [devex-review](https://skillsmp.com/creators/garrytan/gstack/devex-review) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/devex-review) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/devex-review) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [plan-devex-review](https://skillsmp.com/creators/garrytan/gstack/plan-devex-review) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-devex-review) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-devex-review) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [plan-tune](https://skillsmp.com/creators/garrytan/gstack/plan-tune) — by garrytan
-  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune) ⭐ 128,132 | 🐛 923 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/garrytan/gstack/tree/main/plan-tune) ⭐ 128,256 | 🐛 933 | 🌐 TypeScript | 📅 2026-08-16
 
 * [spec-generator](https://skillsmp.com/creators/google-gemini/gemini-cli/tools-caretaker-agent-cloudrun-triage-worker-gemini-skills-spec-generator) — by google-gemini
-  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator) ⭐ 106,529 | 🐛 842 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/google-gemini/gemini-cli/tree/main/tools/caretaker-agent/cloudrun/triage-worker/.gemini/skills/spec_generator) ⭐ 106,532 | 🐛 846 | 🌐 TypeScript | 📅 2026-08-16
 
 * [playwright-dev](https://skillsmp.com/creators/microsoft/playwright/claude-skills-playwright-dev) — by microsoft
-  * [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev) ⭐ 94,549 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-15
-
-* [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-voice) — by zed-industries
-  * [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-voice) ⭐ 88,654 | 🐛 3,239 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-dev) ⭐ 94,588 | 🐛 154 | 🌐 TypeScript | 📅 2026-08-15
 
 * [brand-writer](https://skillsmp.com/creators/zed-industries/zed/factory-skills-brand-writer) — by zed-industries
-  * [GitHub](https://github.com/zed-industries/zed/tree/main/.factory/skills/brand-writer) ⭐ 88,654 | 🐛 3,239 | 🌐 Rust | 📅 2026-08-15
+  * [GitHub](https://github.com/zed-industries/zed/tree/main/.factory/skills/brand-writer) ⭐ 88,695 | 🐛 3,258 | 🌐 Rust | 📅 2026-08-16
+
+* [brand-writer](https://skillsmp.com/creators/zed-industries/zed/docs-conventions-brand-writer) — by zed-industries
+  * [GitHub](https://github.com/zed-industries/zed/tree/main/docs/.conventions/brand-writer) ⭐ 88,695 | 🐛 3,258 | 🌐 Rust | 📅 2026-08-16
 
 * [brandkit](https://skillsmp.com/creators/nexu-io/open-design/skills-brandkit) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/brandkit) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-presenter-mode](https://skillsmp.com/creators/nexu-io/open-design/design-templates-html-ppt-presenter-mode-reveal) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/design-templates/html-ppt-presenter-mode-reveal) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [html-ppt-presenter-mode](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-html-ppt-presenter-mode-reveal) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-presenter-mode-reveal) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/html-ppt-presenter-mode-reveal) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [ve-terminal-mono](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-ve-terminal-mono) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/ve-terminal-mono) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/ve-terminal-mono) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 * [imagegen-frontend-web](https://skillsmp.com/creators/nexu-io/open-design/skills-imagegen-frontend-web) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/imagegen-frontend-web) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
-
-* [webgl-pixel-reveal-gallery](https://skillsmp.com/creators/nexu-io/open-design/plugins-official-examples-webgl-pixel-reveal-gallery) — by nexu-io
-  * [GitHub](https://github.com/nexu-io/open-design/tree/main/plugins/_official/examples/webgl-pixel-reveal-gallery) ⭐ 86,903 | 🐛 804 | 🌐 TypeScript | 📅 2026-08-15
+  * [GitHub](https://github.com/nexu-io/open-design/tree/main/skills/imagegen-frontend-web) ⭐ 87,462 | 🐛 800 | 🌐 TypeScript | 📅 2026-08-16
 
 ## Related
 
@@ -4886,4 +4889,4 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
