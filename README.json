@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T18:45:32Z",
+            "last_commit": "2026-08-17T20:57:08Z",
             "owner": "langflow-ai",
             "repo": "langflow",
-            "stars": 153330
+            "stars": 153366
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2026-08-13T12:38:19Z",
             "owner": "FlowiseAI",
             "repo": "Flowise",
-            "stars": 55377
+            "stars": 55379
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-12T20:24:24Z",
             "owner": "aishwaryanr",
             "repo": "awesome-generative-ai-guide",
-            "stars": 28769
+            "stars": 28781
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-21T15:01:30Z",
             "owner": "terkelg",
             "repo": "awesome-creative-coding",
-            "stars": 15199
+            "stars": 15206
           }
         },
         {
@@ -137,7 +137,7 @@
             "last_commit": "2026-01-01T15:56:37Z",
             "owner": "bnb",
             "repo": "awesome-developer-streams",
-            "stars": 8015
+            "stars": 8016
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2026-07-28T00:51:39Z",
             "owner": "Andrew-Jang",
             "repo": "RAGHub",
-            "stars": 1983
+            "stars": 1984
           }
         },
         {
@@ -162,7 +162,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-13T07:09:31Z",
+            "last_commit": "2026-08-17T08:38:52Z",
             "owner": "facundofarias",
             "repo": "awesome-websockets",
             "stars": 1858
@@ -179,7 +179,7 @@
             "last_commit": "2026-07-09T17:29:58Z",
             "owner": "e2b-dev",
             "repo": "awesome-ai-sdks",
-            "stars": 1211
+            "stars": 1210
           }
         },
         {
@@ -258,10 +258,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T20:05:40Z",
+            "last_commit": "2026-08-17T20:52:07Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197088
+            "stars": 196988
           }
         },
         {
@@ -272,10 +272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T20:32:57Z",
+            "last_commit": "2026-08-17T19:51:49Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164163
+            "stars": 164192
           }
         },
         {
@@ -286,10 +286,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T18:33:30Z",
+            "last_commit": "2026-08-17T19:23:23Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 152626
+            "stars": 152715
           }
         },
         {
@@ -300,10 +300,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T20:54:52Z",
+            "last_commit": "2026-08-17T20:57:28Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102430
+            "stars": 102436
           }
         },
         {
@@ -314,10 +314,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T10:16:53Z",
+            "last_commit": "2026-08-17T03:11:26Z",
             "owner": "junegunn",
             "repo": "fzf",
-            "stars": 82545
+            "stars": 82552
           }
         },
         {
@@ -328,10 +328,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T15:09:44Z",
+            "last_commit": "2026-08-17T07:32:38Z",
             "owner": "jesseduffield",
             "repo": "lazygit",
-            "stars": 81381
+            "stars": 81406
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-04T13:59:44Z",
             "owner": "BurntSushi",
             "repo": "ripgrep",
-            "stars": 67329
+            "stars": 67347
           }
         },
         {
@@ -359,7 +359,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60456
+            "stars": 60471
           }
         },
         {
@@ -370,10 +370,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T10:40:05Z",
+            "last_commit": "2026-08-17T20:20:58Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57168
+            "stars": 57214
           }
         },
         {
@@ -387,7 +387,7 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48268
+            "stars": 48286
           }
         },
         {
@@ -401,7 +401,7 @@
             "last_commit": "2024-08-16T12:07:14Z",
             "owner": "coqui-ai",
             "repo": "TTS",
-            "stars": 45906
+            "stars": 45908
           }
         },
         {
@@ -412,10 +412,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T22:22:31Z",
+            "last_commit": "2026-08-17T04:06:15Z",
             "owner": "tj",
             "repo": "commander.js",
-            "stars": 28367
+            "stars": 28365
           }
         },
         {
@@ -426,10 +426,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T08:33:17Z",
+            "last_commit": "2026-08-17T20:51:41Z",
             "owner": "Kilo-Org",
             "repo": "kilocode",
-            "stars": 26888
+            "stars": 26904
           }
         },
         {
@@ -440,10 +440,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T08:53:41Z",
+            "last_commit": "2026-08-17T11:05:50Z",
             "owner": "confident-ai",
             "repo": "deepeval",
-            "stars": 17619
+            "stars": 17644
           }
         },
         {
@@ -457,7 +457,7 @@
             "last_commit": "2026-08-11T01:11:23Z",
             "owner": "graphql",
             "repo": "graphiql",
-            "stars": 16894
+            "stars": 16895
           }
         },
         {
@@ -468,10 +468,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T19:12:34Z",
+            "last_commit": "2026-08-17T20:04:33Z",
             "owner": "scalar",
             "repo": "scalar",
-            "stars": 15926
+            "stars": 15928
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9936
+            "stars": 9939
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2026-07-27T07:06:05Z",
             "owner": "AI4Finance-Foundation",
             "repo": "FinRobot",
-            "stars": 7793
+            "stars": 7798
           }
         },
         {
@@ -538,7 +538,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T20:42:27Z",
+            "last_commit": "2026-08-17T20:20:09Z",
             "owner": "flwrlabs",
             "repo": "flower",
             "stars": 7076
@@ -555,7 +555,7 @@
             "last_commit": "2025-03-10T04:04:12Z",
             "owner": "btford",
             "repo": "write-good",
-            "stars": 5076
+            "stars": 5078
           }
         },
         {
@@ -569,7 +569,7 @@
             "last_commit": "2024-09-20T23:03:27Z",
             "owner": "topojson",
             "repo": "topojson",
-            "stars": 4901
+            "stars": 4902
           }
         },
         {
@@ -597,7 +597,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3912
+            "stars": 3914
           }
         },
         {
@@ -622,7 +622,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-06T22:18:52Z",
+            "last_commit": "2026-08-17T08:38:38Z",
             "owner": "google",
             "repo": "differential-privacy",
             "stars": 3341
@@ -650,7 +650,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:11:31Z",
+            "last_commit": "2026-08-17T18:27:48Z",
             "owner": "aws",
             "repo": "sagemaker-python-sdk",
             "stars": 2259
@@ -678,10 +678,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T05:24:47Z",
+            "last_commit": "2026-08-17T05:32:32Z",
             "owner": "scraly",
             "repo": "developers-conferences-agenda",
-            "stars": 1995
+            "stars": 1997
           }
         },
         {
@@ -723,7 +723,7 @@
             "last_commit": "2026-07-28T16:54:44Z",
             "owner": "gjtorikian",
             "repo": "html-proofer",
-            "stars": 1646
+            "stars": 1647
           }
         },
         {
@@ -765,7 +765,7 @@
             "last_commit": "2021-08-13T16:19:41Z",
             "owner": "lettier",
             "repo": "gifcurry",
-            "stars": 1442
+            "stars": 1441
           }
         },
         {
@@ -790,10 +790,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T22:09:14Z",
+            "last_commit": "2026-08-17T20:41:45Z",
             "owner": "kubeflow",
             "repo": "hub",
-            "stars": 182
+            "stars": 181
           }
         },
         {
@@ -895,7 +895,7 @@
             "last_commit": "2026-08-14T17:26:59Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 364642
+            "stars": 364740
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2026-03-02T07:00:53Z",
             "owner": "AUTOMATIC1111",
             "repo": "stable-diffusion-webui",
-            "stars": 164533
+            "stars": 164548
           }
         },
         {
@@ -923,7 +923,7 @@
             "last_commit": "2026-03-11T20:09:13Z",
             "owner": "dair-ai",
             "repo": "Prompt-Engineering-Guide",
-            "stars": 77504
+            "stars": 77528
           }
         },
         {
@@ -934,10 +934,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-16T14:58:04Z",
+            "last_commit": "2026-08-17T20:30:55Z",
             "owner": "openai",
             "repo": "openai-cookbook",
-            "stars": 75261
+            "stars": 75294
           }
         },
         {
@@ -951,7 +951,7 @@
             "last_commit": "2026-08-05T00:07:38Z",
             "owner": "microsoft",
             "repo": "api-guidelines",
-            "stars": 23316
+            "stars": 23317
           }
         },
         {
@@ -962,10 +962,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-04T17:57:03Z",
+            "last_commit": "2026-08-17T08:07:54Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20164
+            "stars": 20172
           }
         },
         {
@@ -979,7 +979,7 @@
             "last_commit": "2026-06-29T17:36:29Z",
             "owner": "zakirullin",
             "repo": "cognitive-load",
-            "stars": 12480
+            "stars": 12477
           }
         },
         {
@@ -1007,7 +1007,7 @@
             "last_commit": "2025-01-03T01:27:50Z",
             "owner": "firmai",
             "repo": "financial-machine-learning",
-            "stars": 8745
+            "stars": 8747
           }
         },
         {
@@ -1032,10 +1032,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T06:50:47Z",
+            "last_commit": "2026-08-17T07:07:18Z",
             "owner": "promptslab",
             "repo": "Awesome-Prompt-Engineering",
-            "stars": 6253
+            "stars": 6256
           }
         },
         {
@@ -1049,7 +1049,7 @@
             "last_commit": "2026-05-21T09:12:50Z",
             "owner": "tensorchord",
             "repo": "Awesome-LLMOps",
-            "stars": 5915
+            "stars": 5916
           }
         },
         {
@@ -1077,7 +1077,7 @@
             "last_commit": "2026-07-11T19:10:35Z",
             "owner": "jamesmurdza",
             "repo": "awesome-ai-devtools",
-            "stars": 3912
+            "stars": 3914
           }
         },
         {
@@ -1119,7 +1119,7 @@
             "last_commit": "2026-08-13T19:39:00Z",
             "owner": "felipefialho",
             "repo": "awesome-made-by-brazilians",
-            "stars": 1857
+            "stars": 1859
           }
         },
         {
@@ -1130,7 +1130,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:57:09Z",
+            "last_commit": "2026-08-17T19:32:44Z",
             "owner": "triton-inference-server",
             "repo": "tutorials",
             "stars": 858
@@ -1147,7 +1147,7 @@
             "last_commit": "2025-05-09T15:41:36Z",
             "owner": "devrelcollective",
             "repo": "awesome-devrel",
-            "stars": 759
+            "stars": 760
           }
         },
         {
@@ -1320,10 +1320,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1341,10 +1341,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1362,10 +1362,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1383,10 +1383,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1404,10 +1404,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1425,10 +1425,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1446,10 +1446,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:30Z",
+                "last_commit": "2026-08-17T20:55:24Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 188804
+                "stars": 188829
               }
             }
           ]
@@ -1467,10 +1467,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:45:25Z",
+                "last_commit": "2026-08-17T02:42:50Z",
                 "owner": "Shubhamsaboo",
                 "repo": "awesome-llm-apps",
-                "stars": 132876
+                "stars": 132974
               }
             }
           ]
@@ -1488,10 +1488,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -1509,10 +1509,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -1530,10 +1530,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -1551,10 +1551,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:44:12Z",
+                "last_commit": "2026-08-17T20:14:55Z",
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 106532
+                "stars": 106543
               }
             }
           ]
@@ -1572,10 +1572,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T00:19:07Z",
+                "last_commit": "2026-08-17T17:57:58Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 94588
+                "stars": 94636
               }
             }
           ]
@@ -1593,10 +1593,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:48:34Z",
+                "last_commit": "2026-08-17T20:56:59Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 88695
+                "stars": 88766
               }
             }
           ]
@@ -1614,10 +1614,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:48:34Z",
+                "last_commit": "2026-08-17T20:56:59Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 88695
+                "stars": 88766
               }
             }
           ]
@@ -1635,10 +1635,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -1656,10 +1656,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -1677,10 +1677,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -1698,10 +1698,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -1719,10 +1719,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -1746,10 +1746,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -1770,7 +1770,7 @@
                 "last_commit": "2026-08-13T00:36:31Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 272777
+                "stars": 273178
               }
             }
           ]
@@ -1788,10 +1788,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1809,10 +1809,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1830,10 +1830,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -1851,10 +1851,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:09:56Z",
+                "last_commit": "2026-08-17T17:23:18Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 169735
+                "stars": 169972
               }
             }
           ]
@@ -1872,10 +1872,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -1893,10 +1893,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -1914,10 +1914,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:44:12Z",
+                "last_commit": "2026-08-17T20:14:55Z",
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 106532
+                "stars": 106543
               }
             }
           ]
@@ -1935,10 +1935,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T16:29:46Z",
+                "last_commit": "2026-08-17T20:59:01Z",
                 "owner": "angular",
                 "repo": "angular",
-                "stars": 101020
+                "stars": 100996
               }
             }
           ]
@@ -1959,7 +1959,7 @@
                 "last_commit": "2026-08-16T19:26:43Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98532
+                "stars": 98720
               }
             }
           ]
@@ -1980,7 +1980,7 @@
                 "last_commit": "2026-08-16T19:26:43Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98532
+                "stars": 98720
               }
             }
           ]
@@ -2001,7 +2001,7 @@
                 "last_commit": "2026-08-16T19:26:43Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98532
+                "stars": 98720
               }
             }
           ]
@@ -2022,7 +2022,7 @@
                 "last_commit": "2026-08-16T19:26:43Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98532
+                "stars": 98720
               }
             }
           ]
@@ -2040,10 +2040,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T20:47:40Z",
+                "last_commit": "2026-08-17T15:46:17Z",
                 "owner": "thedotmack",
                 "repo": "claude-mem",
-                "stars": 90899
+                "stars": 91004
               }
             }
           ]
@@ -2061,10 +2061,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -2082,10 +2082,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -2103,10 +2103,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:43Z",
+                "last_commit": "2026-08-17T20:50:33Z",
                 "owner": "paperclipai",
                 "repo": "paperclip",
-                "stars": 78487
+                "stars": 78690
               }
             }
           ]
@@ -2124,10 +2124,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T14:58:04Z",
+                "last_commit": "2026-08-17T20:30:55Z",
                 "owner": "openai",
                 "repo": "openai-cookbook",
-                "stars": 75261
+                "stars": 75294
               }
             }
           ]
@@ -2148,7 +2148,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -2166,10 +2166,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2187,10 +2187,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2208,10 +2208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2229,10 +2229,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2250,10 +2250,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2271,10 +2271,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2292,10 +2292,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2313,10 +2313,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:03:01Z",
+                "last_commit": "2026-08-17T18:55:12Z",
                 "owner": "n8n-io",
                 "repo": "n8n",
-                "stars": 200895
+                "stars": 200985
               }
             }
           ]
@@ -2334,10 +2334,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Dart",
-                "last_commit": "2026-08-16T15:47:57Z",
+                "last_commit": "2026-08-17T20:56:59Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178429
+                "stars": 178430
               }
             }
           ]
@@ -2355,10 +2355,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -2376,10 +2376,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -2397,10 +2397,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C",
-                "last_commit": "2026-08-16T16:17:13Z",
+                "last_commit": "2026-08-17T20:53:54Z",
                 "owner": "microsoft",
                 "repo": "PowerToys",
-                "stars": 137810
+                "stars": 137821
               }
             }
           ]
@@ -2418,10 +2418,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -2439,10 +2439,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -2460,10 +2460,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T18:50:46Z",
+                "last_commit": "2026-08-17T18:40:31Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 109430
+                "stars": 109514
               }
             }
           ]
@@ -2481,10 +2481,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T18:50:46Z",
+                "last_commit": "2026-08-17T18:40:31Z",
                 "owner": "browser-use",
                 "repo": "browser-use",
-                "stars": 109430
+                "stars": 109514
               }
             }
           ]
@@ -2502,10 +2502,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T00:17:15Z",
+                "last_commit": "2026-08-17T20:22:53Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108059
+                "stars": 108098
               }
             }
           ]
@@ -2523,10 +2523,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2544,10 +2544,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2565,10 +2565,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2586,10 +2586,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2607,10 +2607,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2628,10 +2628,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2649,10 +2649,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2670,10 +2670,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2691,10 +2691,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2712,10 +2712,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2733,10 +2733,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2754,10 +2754,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2775,10 +2775,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2796,10 +2796,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2817,10 +2817,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2844,10 +2844,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2865,10 +2865,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2886,10 +2886,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -2907,10 +2907,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -2928,10 +2928,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2949,10 +2949,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2970,10 +2970,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -2991,10 +2991,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3012,10 +3012,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3033,10 +3033,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3054,10 +3054,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3075,10 +3075,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3096,10 +3096,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3117,10 +3117,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3138,10 +3138,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3159,10 +3159,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3180,10 +3180,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3201,10 +3201,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3222,10 +3222,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3243,10 +3243,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3264,10 +3264,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3285,10 +3285,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -3306,10 +3306,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T20:54:34Z",
+                "last_commit": "2026-08-17T20:52:26Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122518
+                "stars": 122506
               }
             }
           ]
@@ -3327,10 +3327,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T20:54:34Z",
+                "last_commit": "2026-08-17T20:52:26Z",
                 "owner": "electron",
                 "repo": "electron",
-                "stars": 122518
+                "stars": 122506
               }
             }
           ]
@@ -3348,10 +3348,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -3369,10 +3369,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -3390,10 +3390,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -3411,10 +3411,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:43Z",
+                "last_commit": "2026-08-17T20:50:33Z",
                 "owner": "paperclipai",
                 "repo": "paperclip",
-                "stars": 78487
+                "stars": 78690
               }
             }
           ]
@@ -3435,7 +3435,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3456,7 +3456,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3477,7 +3477,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3498,7 +3498,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3519,7 +3519,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3540,7 +3540,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3561,7 +3561,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3582,7 +3582,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3603,7 +3603,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3624,7 +3624,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3642,10 +3642,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:09:56Z",
+                "last_commit": "2026-08-17T17:23:18Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 169735
+                "stars": 169972
               }
             }
           ]
@@ -3663,10 +3663,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -3684,10 +3684,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -3705,10 +3705,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T15:54:06Z",
+                "last_commit": "2026-08-17T11:55:30Z",
                 "owner": "bytedance",
                 "repo": "deer-flow",
-                "stars": 80098
+                "stars": 80167
               }
             }
           ]
@@ -3729,7 +3729,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -3747,10 +3747,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T08:14:23Z",
+                "last_commit": "2026-08-17T19:59:35Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39590
+                "stars": 39597
               }
             }
           ]
@@ -3768,10 +3768,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:24:25Z",
+                "last_commit": "2026-08-17T20:23:14Z",
                 "owner": "garrytan",
                 "repo": "gbrain",
-                "stars": 28560
+                "stars": 28615
               }
             }
           ]
@@ -3792,7 +3792,7 @@
                 "last_commit": "2026-08-08T14:55:19Z",
                 "owner": "mukul975",
                 "repo": "Anthropic-Cybersecurity-Skills",
-                "stars": 27978
+                "stars": 28334
               }
             }
           ]
@@ -3810,10 +3810,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:06:07Z",
+                "last_commit": "2026-08-17T20:58:42Z",
                 "owner": "mastra-ai",
                 "repo": "mastra",
-                "stars": 27230
+                "stars": 27252
               }
             }
           ]
@@ -3831,10 +3831,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-09T10:35:32Z",
+                "last_commit": "2026-08-17T02:43:44Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24524
+                "stars": 24569
               }
             }
           ]
@@ -3852,10 +3852,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-09T10:35:32Z",
+                "last_commit": "2026-08-17T02:43:44Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24524
+                "stars": 24569
               }
             }
           ]
@@ -3873,10 +3873,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T18:07:26Z",
+                "last_commit": "2026-08-17T20:26:19Z",
                 "owner": "anthropics",
                 "repo": "knowledge-work-plugins",
-                "stars": 23514
+                "stars": 23538
               }
             }
           ]
@@ -3894,10 +3894,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T18:07:26Z",
+                "last_commit": "2026-08-17T20:26:19Z",
                 "owner": "anthropics",
                 "repo": "knowledge-work-plugins",
-                "stars": 23514
+                "stars": 23538
               }
             }
           ]
@@ -3915,10 +3915,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:35:42Z",
+                "last_commit": "2026-08-17T20:51:40Z",
                 "owner": "different-ai",
                 "repo": "openwork",
-                "stars": 22432
+                "stars": 22547
               }
             }
           ]
@@ -3942,10 +3942,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -3963,10 +3963,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -3984,10 +3984,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4005,10 +4005,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4026,10 +4026,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:09:56Z",
+                "last_commit": "2026-08-17T17:23:18Z",
                 "owner": "anthropics",
                 "repo": "skills",
-                "stars": 169735
+                "stars": 169972
               }
             }
           ]
@@ -4050,7 +4050,7 @@
                 "last_commit": "2026-08-13T17:10:11Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 117307
+                "stars": 117600
               }
             }
           ]
@@ -4071,7 +4071,7 @@
                 "last_commit": "2026-08-13T17:10:11Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 117307
+                "stars": 117600
               }
             }
           ]
@@ -4092,7 +4092,7 @@
                 "last_commit": "2026-08-13T17:10:11Z",
                 "owner": "nextlevelbuilder",
                 "repo": "ui-ux-pro-max-skill",
-                "stars": 117307
+                "stars": 117600
               }
             }
           ]
@@ -4113,7 +4113,7 @@
                 "last_commit": "2026-08-16T19:26:43Z",
                 "owner": "JuliusBrussee",
                 "repo": "caveman",
-                "stars": 98532
+                "stars": 98720
               }
             }
           ]
@@ -4131,10 +4131,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4152,10 +4152,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4173,10 +4173,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4194,10 +4194,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4215,10 +4215,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4236,10 +4236,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4257,10 +4257,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4278,10 +4278,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4299,10 +4299,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4320,10 +4320,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4341,10 +4341,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4362,10 +4362,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4383,10 +4383,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4404,10 +4404,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4425,10 +4425,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4446,10 +4446,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4467,10 +4467,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4488,10 +4488,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4509,10 +4509,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -4530,10 +4530,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:03:01Z",
+                "last_commit": "2026-08-17T18:55:12Z",
                 "owner": "n8n-io",
                 "repo": "n8n",
-                "stars": 200895
+                "stars": 200985
               }
             }
           ]
@@ -4551,10 +4551,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:30Z",
+                "last_commit": "2026-08-17T20:55:24Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 188804
+                "stars": 188829
               }
             }
           ]
@@ -4572,10 +4572,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:45:25Z",
+                "last_commit": "2026-08-17T02:42:50Z",
                 "owner": "Shubhamsaboo",
                 "repo": "awesome-llm-apps",
-                "stars": 132876
+                "stars": 132974
               }
             }
           ]
@@ -4593,10 +4593,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:54:52Z",
+                "last_commit": "2026-08-17T20:57:28Z",
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 102430
+                "stars": 102436
               }
             }
           ]
@@ -4617,7 +4617,7 @@
                 "last_commit": "2026-08-14T18:51:33Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 87725
+                "stars": 88019
               }
             }
           ]
@@ -4638,7 +4638,7 @@
                 "last_commit": "2026-08-14T18:51:33Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 87725
+                "stars": 88019
               }
             }
           ]
@@ -4656,10 +4656,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4677,10 +4677,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4698,10 +4698,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4719,10 +4719,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4740,10 +4740,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4761,10 +4761,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4782,10 +4782,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4803,10 +4803,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4824,10 +4824,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4845,10 +4845,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -4866,10 +4866,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -4890,7 +4890,7 @@
                 "last_commit": "2026-08-14T18:51:33Z",
                 "owner": "addyosmani",
                 "repo": "agent-skills",
-                "stars": 87725
+                "stars": 88019
               }
             }
           ]
@@ -4908,10 +4908,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4929,10 +4929,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -4950,10 +4950,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T06:29:37Z",
+                "last_commit": "2026-08-17T09:20:39Z",
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 67994
+                "stars": 68070
               }
             }
           ]
@@ -4971,10 +4971,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T06:29:37Z",
+                "last_commit": "2026-08-17T09:20:39Z",
                 "owner": "ruvnet",
                 "repo": "ruflo",
-                "stars": 67994
+                "stars": 68070
               }
             }
           ]
@@ -4992,10 +4992,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-15T03:58:20Z",
+                "last_commit": "2026-08-17T10:39:20Z",
                 "owner": "asgeirtj",
                 "repo": "system_prompts_leaks",
-                "stars": 63012
+                "stars": 63071
               }
             }
           ]
@@ -5013,10 +5013,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T20:51:36Z",
+                "last_commit": "2026-08-17T17:39:00Z",
                 "owner": "bmad-code-org",
                 "repo": "BMAD-METHOD",
-                "stars": 51966
+                "stars": 51993
               }
             }
           ]
@@ -5037,7 +5037,7 @@
                 "last_commit": "2026-08-14T11:37:40Z",
                 "owner": "slidevjs",
                 "repo": "slidev",
-                "stars": 48105
+                "stars": 48121
               }
             }
           ]
@@ -5055,10 +5055,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T10:03:11Z",
+                "last_commit": "2026-08-17T20:54:57Z",
                 "owner": "apache",
                 "repo": "airflow",
-                "stars": 46508
+                "stars": 46514
               }
             }
           ]
@@ -5076,10 +5076,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-14T14:40:42Z",
+                "last_commit": "2026-08-17T14:06:41Z",
                 "owner": "cli",
                 "repo": "cli",
-                "stars": 45842
+                "stars": 45863
               }
             }
           ]
@@ -5100,7 +5100,7 @@
                 "last_commit": "2026-08-16T01:56:08Z",
                 "owner": "saadeghi",
                 "repo": "daisyui",
-                "stars": 42094
+                "stars": 42105
               }
             }
           ]
@@ -5118,10 +5118,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T21:37:08Z",
+                "last_commit": "2026-08-17T01:09:44Z",
                 "owner": "wshobson",
                 "repo": "agents",
-                "stars": 38855
+                "stars": 38869
               }
             }
           ]
@@ -5139,10 +5139,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:54:21Z",
+                "last_commit": "2026-08-17T20:59:21Z",
                 "owner": "PostHog",
                 "repo": "posthog",
-                "stars": 37713
+                "stars": 37721
               }
             }
           ]
@@ -5166,10 +5166,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:03:01Z",
+                "last_commit": "2026-08-17T18:55:12Z",
                 "owner": "n8n-io",
                 "repo": "n8n",
-                "stars": 200895
+                "stars": 200985
               }
             }
           ]
@@ -5187,10 +5187,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:03:01Z",
+                "last_commit": "2026-08-17T18:55:12Z",
                 "owner": "n8n-io",
                 "repo": "n8n",
-                "stars": 200895
+                "stars": 200985
               }
             }
           ]
@@ -5208,10 +5208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-14T16:44:52Z",
+                "last_commit": "2026-08-17T20:55:16Z",
                 "owner": "github",
                 "repo": "spec-kit",
-                "stars": 129514
+                "stars": 129801
               }
             }
           ]
@@ -5229,10 +5229,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:13:16Z",
+                "last_commit": "2026-08-17T18:42:58Z",
                 "owner": "Graphify-Labs",
                 "repo": "graphify",
-                "stars": 107052
+                "stars": 107466
               }
             }
           ]
@@ -5250,10 +5250,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T13:14:15Z",
+                "last_commit": "2026-08-17T16:07:37Z",
                 "owner": "infiniflow",
                 "repo": "ragflow",
-                "stars": 88599
+                "stars": 88678
               }
             }
           ]
@@ -5271,10 +5271,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5292,10 +5292,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5313,10 +5313,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5334,10 +5334,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5355,10 +5355,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5376,10 +5376,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5397,10 +5397,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5418,10 +5418,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5439,10 +5439,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5460,10 +5460,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5481,10 +5481,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5502,10 +5502,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5523,10 +5523,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5544,10 +5544,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5565,10 +5565,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -5586,10 +5586,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5607,10 +5607,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5628,10 +5628,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5649,10 +5649,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5670,10 +5670,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5691,10 +5691,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5712,10 +5712,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -5733,10 +5733,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:25:14Z",
+                "last_commit": "2026-08-17T19:23:48Z",
                 "owner": "lobehub",
                 "repo": "lobehub",
-                "stars": 81748
+                "stars": 81778
               }
             }
           ]
@@ -5754,10 +5754,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:25:14Z",
+                "last_commit": "2026-08-17T19:23:48Z",
                 "owner": "lobehub",
                 "repo": "lobehub",
-                "stars": 81748
+                "stars": 81778
               }
             }
           ]
@@ -5775,10 +5775,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:43Z",
+                "last_commit": "2026-08-17T20:50:33Z",
                 "owner": "paperclipai",
                 "repo": "paperclip",
-                "stars": 78487
+                "stars": 78690
               }
             }
           ]
@@ -5796,10 +5796,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:49:58Z",
+                "last_commit": "2026-08-17T20:38:31Z",
                 "owner": "tldraw",
                 "repo": "tldraw",
-                "stars": 49802
+                "stars": 49824
               }
             }
           ]
@@ -5820,7 +5820,7 @@
                 "last_commit": "2026-07-29T05:41:15Z",
                 "owner": "coreyhaines31",
                 "repo": "marketingskills",
-                "stars": 44503
+                "stars": 44628
               }
             }
           ]
@@ -5841,7 +5841,7 @@
                 "last_commit": "2026-08-15T18:20:52Z",
                 "owner": "vercel-labs",
                 "repo": "agent-browser",
-                "stars": 40718
+                "stars": 40792
               }
             }
           ]
@@ -5862,7 +5862,7 @@
                 "last_commit": "2026-08-15T18:20:52Z",
                 "owner": "vercel-labs",
                 "repo": "agent-browser",
-                "stars": 40718
+                "stars": 40792
               }
             }
           ]
@@ -5880,10 +5880,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T08:14:23Z",
+                "last_commit": "2026-08-17T19:59:35Z",
                 "owner": "novuhq",
                 "repo": "novu",
-                "stars": 39590
+                "stars": 39597
               }
             }
           ]
@@ -5901,10 +5901,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-15T21:37:08Z",
+                "last_commit": "2026-08-17T01:09:44Z",
                 "owner": "wshobson",
                 "repo": "agents",
-                "stars": 38855
+                "stars": 38869
               }
             }
           ]
@@ -5922,10 +5922,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T02:01:17Z",
+                "last_commit": "2026-08-17T18:10:26Z",
                 "owner": "Yeachan-Heo",
                 "repo": "oh-my-claudecode",
-                "stars": 38596
+                "stars": 38613
               }
             }
           ]
@@ -5943,10 +5943,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T18:04:55Z",
+                "last_commit": "2026-08-17T20:05:29Z",
                 "owner": "anthropics",
                 "repo": "claude-plugins-official",
-                "stars": 33586
+                "stars": 33616
               }
             }
           ]
@@ -5970,10 +5970,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -5991,10 +5991,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -6012,10 +6012,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -6033,10 +6033,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -6054,10 +6054,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -6078,7 +6078,7 @@
                 "last_commit": "2026-08-13T00:36:31Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 272777
+                "stars": 273178
               }
             }
           ]
@@ -6099,7 +6099,7 @@
                 "last_commit": "2026-08-13T00:36:31Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 272777
+                "stars": 273178
               }
             }
           ]
@@ -6120,7 +6120,7 @@
                 "last_commit": "2026-08-13T00:36:31Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 272777
+                "stars": 273178
               }
             }
           ]
@@ -6141,7 +6141,7 @@
                 "last_commit": "2026-08-13T00:36:31Z",
                 "owner": "obra",
                 "repo": "superpowers",
-                "stars": 272777
+                "stars": 273178
               }
             }
           ]
@@ -6159,10 +6159,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -6180,10 +6180,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -6201,10 +6201,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -6222,10 +6222,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -6243,10 +6243,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T17:33:13Z",
+                "last_commit": "2026-08-17T11:16:23Z",
                 "owner": "react",
                 "repo": "react",
-                "stars": 247304
+                "stars": 247336
               }
             }
           ]
@@ -6264,10 +6264,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6285,10 +6285,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6306,10 +6306,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6327,10 +6327,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6348,10 +6348,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6369,10 +6369,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6390,10 +6390,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6411,10 +6411,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6432,10 +6432,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6453,10 +6453,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6474,10 +6474,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6495,10 +6495,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6516,10 +6516,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6537,10 +6537,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6558,10 +6558,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6579,10 +6579,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6600,10 +6600,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6621,10 +6621,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -6642,10 +6642,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Shell",
-                "last_commit": "2026-08-16T20:50:06Z",
+                "last_commit": "2026-08-17T07:54:42Z",
                 "owner": "mattpocock",
                 "repo": "skills",
-                "stars": 219205
+                "stars": 220242
               }
             }
           ]
@@ -6663,10 +6663,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T17:58:51Z",
+                "last_commit": "2026-08-17T20:53:02Z",
                 "owner": "vercel",
                 "repo": "next.js",
-                "stars": 141818
+                "stars": 141808
               }
             }
           ]
@@ -6684,10 +6684,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Swift",
-                "last_commit": "2026-08-16T02:56:08Z",
+                "last_commit": "2026-08-17T03:21:26Z",
                 "owner": "jaywcjlove",
                 "repo": "awesome-mac",
-                "stars": 111197
+                "stars": 111300
               }
             }
           ]
@@ -6705,10 +6705,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T00:17:15Z",
+                "last_commit": "2026-08-17T20:22:53Z",
                 "owner": "supabase",
                 "repo": "supabase",
-                "stars": 108059
+                "stars": 108098
               }
             }
           ]
@@ -6726,10 +6726,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-14T20:44:33Z",
+                "last_commit": "2026-08-17T20:15:11Z",
                 "owner": "storybookjs",
                 "repo": "storybook",
-                "stars": 90859
+                "stars": 90860
               }
             }
           ]
@@ -6747,10 +6747,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-16T16:19:10Z",
+                "last_commit": "2026-08-17T20:00:36Z",
                 "owner": "Stirling-Tools",
                 "repo": "Stirling-PDF",
-                "stars": 89614
+                "stars": 89699
               }
             }
           ]
@@ -6768,10 +6768,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Go",
-                "last_commit": "2026-08-16T06:18:06Z",
+                "last_commit": "2026-08-17T18:45:20Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80204
+                "stars": 80212
               }
             }
           ]
@@ -6792,7 +6792,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -6813,7 +6813,7 @@
                 "last_commit": "2026-08-14T05:59:25Z",
                 "owner": "thedaviddias",
                 "repo": "Front-End-Checklist",
-                "stars": 73540
+                "stars": 73545
               }
             }
           ]
@@ -6834,7 +6834,7 @@
                 "last_commit": "2026-08-14T00:23:49Z",
                 "owner": "calesthio",
                 "repo": "OpenMontage",
-                "stars": 48353
+                "stars": 48585
               }
             }
           ]
@@ -6855,7 +6855,7 @@
                 "last_commit": "2026-08-13T04:30:15Z",
                 "owner": "HKUDS",
                 "repo": "CLI-Anything",
-                "stars": 47616
+                "stars": 47707
               }
             }
           ]
@@ -6879,10 +6879,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6900,10 +6900,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6921,10 +6921,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6942,10 +6942,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6963,10 +6963,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -6984,10 +6984,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7005,10 +7005,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7026,10 +7026,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7047,10 +7047,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7068,10 +7068,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7089,10 +7089,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7110,10 +7110,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7131,10 +7131,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7152,10 +7152,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7173,10 +7173,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7194,10 +7194,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7215,10 +7215,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7236,10 +7236,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7257,10 +7257,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7278,10 +7278,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7299,10 +7299,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -7320,10 +7320,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -7341,10 +7341,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7362,10 +7362,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7383,10 +7383,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7404,10 +7404,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7425,10 +7425,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7446,10 +7446,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7467,10 +7467,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7488,10 +7488,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7509,10 +7509,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7530,10 +7530,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7551,10 +7551,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7572,10 +7572,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7593,10 +7593,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7614,10 +7614,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7635,10 +7635,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-16T20:04:01Z",
+                "last_commit": "2026-08-17T20:57:53Z",
                 "owner": "NousResearch",
                 "repo": "hermes-agent",
-                "stars": 231449
+                "stars": 231979
               }
             }
           ]
@@ -7656,10 +7656,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:30Z",
+                "last_commit": "2026-08-17T20:55:24Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 188804
+                "stars": 188829
               }
             }
           ]
@@ -7677,10 +7677,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7698,10 +7698,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7719,10 +7719,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7740,10 +7740,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7761,10 +7761,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7782,10 +7782,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7803,10 +7803,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7824,10 +7824,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7845,10 +7845,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7866,10 +7866,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7887,10 +7887,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7908,10 +7908,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7929,10 +7929,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7950,10 +7950,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7971,10 +7971,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -7992,10 +7992,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8013,10 +8013,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8034,10 +8034,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8055,10 +8055,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8076,10 +8076,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8103,10 +8103,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8124,10 +8124,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8145,10 +8145,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8166,10 +8166,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8187,10 +8187,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8208,10 +8208,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8229,10 +8229,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8250,10 +8250,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8271,10 +8271,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:54:38Z",
+                "last_commit": "2026-08-17T20:59:12Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 386461
+                "stars": 386556
               }
             }
           ]
@@ -8292,10 +8292,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8313,10 +8313,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8334,10 +8334,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8355,10 +8355,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8376,10 +8376,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8397,10 +8397,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8418,10 +8418,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8439,10 +8439,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8460,10 +8460,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8481,10 +8481,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8502,10 +8502,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8523,10 +8523,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8544,10 +8544,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8565,10 +8565,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8586,10 +8586,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8607,10 +8607,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8628,10 +8628,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8649,10 +8649,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8670,10 +8670,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8691,10 +8691,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8712,10 +8712,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8733,10 +8733,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8754,10 +8754,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8775,10 +8775,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-08-16T06:22:24Z",
+                "last_commit": "2026-08-17T04:55:56Z",
                 "owner": "affaan-m",
                 "repo": "ECC",
-                "stars": 240469
+                "stars": 240675
               }
             }
           ]
@@ -8796,10 +8796,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T20:52:30Z",
+                "last_commit": "2026-08-17T20:55:24Z",
                 "owner": "microsoft",
                 "repo": "vscode",
-                "stars": 188804
+                "stars": 188829
               }
             }
           ]
@@ -8817,10 +8817,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-13T18:45:25Z",
+                "last_commit": "2026-08-17T02:42:50Z",
                 "owner": "Shubhamsaboo",
                 "repo": "awesome-llm-apps",
-                "stars": 132876
+                "stars": 132974
               }
             }
           ]
@@ -8838,10 +8838,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -8859,10 +8859,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -8880,10 +8880,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T18:43:07Z",
+                "last_commit": "2026-08-17T19:48:23Z",
                 "owner": "garrytan",
                 "repo": "gstack",
-                "stars": 128256
+                "stars": 128403
               }
             }
           ]
@@ -8901,10 +8901,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T19:44:12Z",
+                "last_commit": "2026-08-17T20:14:55Z",
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 106532
+                "stars": 106543
               }
             }
           ]
@@ -8922,10 +8922,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T00:19:07Z",
+                "last_commit": "2026-08-17T17:57:58Z",
                 "owner": "microsoft",
                 "repo": "playwright",
-                "stars": 94588
+                "stars": 94636
               }
             }
           ]
@@ -8943,10 +8943,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:48:34Z",
+                "last_commit": "2026-08-17T20:56:59Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 88695
+                "stars": 88766
               }
             }
           ]
@@ -8964,10 +8964,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Rust",
-                "last_commit": "2026-08-16T16:48:34Z",
+                "last_commit": "2026-08-17T20:56:59Z",
                 "owner": "zed-industries",
                 "repo": "zed",
-                "stars": 88695
+                "stars": 88766
               }
             }
           ]
@@ -8985,10 +8985,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -9006,10 +9006,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -9027,10 +9027,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -9048,10 +9048,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -9069,10 +9069,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T17:45:23Z",
+                "last_commit": "2026-08-17T17:22:50Z",
                 "owner": "nexu-io",
                 "repo": "open-design",
-                "stars": 87462
+                "stars": 88275
               }
             }
           ]
@@ -9082,7 +9082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T20:54:52.678Z",
+    "last_updated": "2026-08-17T20:59:20.084Z",
     "original_repository": "dmitryvinn/awesome-dev-advocacy",
     "original_repository_sha": "78f7af78b9b59cc4c4b91c8a29882ff1bf5f9179",
     "enhanced_repository": "enhansome/enhansome-dev-advocacy",
