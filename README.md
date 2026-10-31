@@ -2298,14 +2298,14 @@ Video channels dedicated to different areas of DevRel:
 
 ## Communities
 
-* [Langflow GitHub](https://github.com/langflow-ai/langflow) ⭐ 156,147 | 🐛 1,251 | 🌐 Python | 📅 2026-10-29
+* [Langflow GitHub](https://github.com/langflow-ai/langflow) ⭐ 156,171 | 🐛 1,265 | 🌐 Python | 📅 2026-10-30
 * [Flowise GitHub](https://github.com/FlowiseAI/Flowise) ⚠️ Archived
-* [Most Impactful RAG Papers](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md) ⭐ 30,021 | 🐛 6 | 🌐 HTML | 📅 2026-10-28
-* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,516 | 🐛 30 | 🌐 HTML | 📅 2026-07-21
-* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams) ⭐ 8,042 | 🐛 8 | 📅 2026-01-01
+* [Most Impactful RAG Papers](https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/research_updates/rag_research_table.md) ⭐ 30,042 | 🐛 6 | 🌐 HTML | 📅 2026-10-28
+* [Awesome Creative Coding](https://github.com/terkelg/awesome-creative-coding) ⭐ 15,522 | 🐛 29 | 🌐 HTML | 📅 2026-07-21
+* [Awesome Developer Streams](https://github.com/bnb/awesome-developer-streams) ⭐ 8,043 | 🐛 8 | 📅 2026-01-01
 * [RAGHub: A Directory of Tools for Retrieval-Augmented Generation](https://github.com/Andrew-Jang/RAGHub) ⭐ 2,019 | 🐛 7 | 📅 2026-07-28
-* [awesome-websockets](https://github.com/facundofarias/awesome-websockets) ⭐ 1,861 | 🐛 8 | 📅 2026-10-26
-* [Awesome AI SDKs](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,236 | 🐛 301 | 📅 2026-07-09
+* [awesome-websockets](https://github.com/facundofarias/awesome-websockets) ⭐ 1,863 | 🐛 8 | 📅 2026-10-26
+* [Awesome AI SDKs](https://github.com/e2b-dev/awesome-ai-sdks) ⭐ 1,237 | 🐛 300 | 📅 2026-07-09
 * [DevOps Chat Rooms](https://github.com/collabnix/devopschatrooms) ⭐ 125 | 🐛 1 | 📅 2023-03-29
 * [Awesome AI Ethics](https://github.com/brandonhimpfen/awesome-ai-ethics) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2026-09-06
 * [Developer Communities in Europe](https://github.com/LaraKraemer/developer-communities) ⭐ 5 | 🐛 0 | 📅 2025-01-30
@@ -2583,37 +2583,37 @@ Video channels dedicated to different areas of DevRel:
 
 ## Tools & Services
 
-* [TensorFlow GitHub Repository](https://github.com/tensorflow/tensorflow) ⭐ 201,211 | 🐛 3,438 | 🌐 C++ | 📅 2026-10-29
-* [Transformers GitHub Repository](https://github.com/huggingface/transformers) ⭐ 168,332 | 🐛 1,028 | 🌐 Python | 📅 2026-10-30
-* [GitHub - langgenius/dify: Production-ready platform for agentic workflow development. · GitHub](https://github.com/langgenius/dify) ⭐ 159,930 | 🐛 1,193 | 🌐 Python | 📅 2026-10-29
-* [PyTorch GitHub Repository](https://github.com/pytorch/pytorch) ⭐ 105,002 | 🐛 17,866 | 🌐 Python | 📅 2026-10-30
-* [fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 83,856 | 🐛 337 | 🌐 Go | 📅 2026-10-29
-* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,516 | 🐛 1,061 | 🌐 Go | 📅 2026-10-28
-* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,549 | 🐛 212 | 🌐 Rust | 📅 2026-10-27
-* [microsoft/autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen) ⭐ 61,624 | 🐛 1,122 | 🌐 Python | 📅 2026-10-28
-* [crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewaiinc/crewai) ⭐ 60,265 | 🐛 902 | 🌐 Python | 📅 2026-10-29
-* [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,817 | 🐛 1,935 | 🌐 Python | 📅 2026-05-22
-* [coqui-ai/TTS: a deep learning toolkit for Text-to-Speech](https://github.com/coqui-ai/tts) ⭐ 46,171 | 🐛 3 | 🌐 Python | 📅 2024-08-16
-* [Commander.js](https://github.com/tj/commander.js) ⭐ 28,445 | 🐛 10 | 🌐 JavaScript | 📅 2026-10-26
-* [Kilo Code](https://github.com/kilo-org/kilocode) ⭐ 27,794 | 🐛 818 | 🌐 TypeScript | 📅 2026-10-29
-* [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval) ⭐ 19,186 | 🐛 789 | 🌐 Python | 📅 2026-10-29
-* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,927 | 🐛 399 | 🌐 TypeScript | 📅 2026-10-27
-* [Scalar](https://github.com/scalar/scalar) ⭐ 16,340 | 🐛 48 | 🌐 TypeScript | 📅 2026-10-30
+* [TensorFlow GitHub Repository](https://github.com/tensorflow/tensorflow) ⭐ 201,233 | 🐛 3,455 | 🌐 C++ | 📅 2026-10-30
+* [Transformers GitHub Repository](https://github.com/huggingface/transformers) ⭐ 168,372 | 🐛 1,018 | 🌐 Python | 📅 2026-10-30
+* [GitHub - langgenius/dify: Production-ready platform for agentic workflow development. · GitHub](https://github.com/langgenius/dify) ⭐ 160,028 | 🐛 1,141 | 🌐 Python | 📅 2026-10-31
+* [PyTorch GitHub Repository](https://github.com/pytorch/pytorch) ⭐ 105,029 | 🐛 17,842 | 🌐 Python | 📅 2026-10-30
+* [fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf) ⭐ 83,876 | 🐛 337 | 🌐 Go | 📅 2026-10-29
+* [lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,542 | 🐛 1,063 | 🌐 Go | 📅 2026-10-30
+* [ripgrep](https://github.com/BurntSushi/ripgrep) ⭐ 69,583 | 🐛 212 | 🌐 Rust | 📅 2026-10-27
+* [microsoft/autogen: A programming framework for agentic AI](https://github.com/microsoft/autogen) ⭐ 61,642 | 🐛 1,122 | 🌐 Python | 📅 2026-10-28
+* [crewAIInc/crewAI: Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.](https://github.com/crewaiinc/crewai) ⭐ 60,314 | 🐛 947 | 🌐 Python | 📅 2026-10-30
+* [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,832 | 🐛 1,934 | 🌐 Python | 📅 2026-05-22
+* [coqui-ai/TTS: a deep learning toolkit for Text-to-Speech](https://github.com/coqui-ai/tts) ⭐ 46,175 | 🐛 3 | 🌐 Python | 📅 2024-08-16
+* [Commander.js](https://github.com/tj/commander.js) ⭐ 28,446 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-26
+* [Kilo Code](https://github.com/kilo-org/kilocode) ⭐ 27,804 | 🐛 826 | 🌐 TypeScript | 📅 2026-10-30
+* [deepeval: The LLM Evaluation Framework](https://github.com/confident-ai/deepeval) ⭐ 19,203 | 🐛 806 | 🌐 Python | 📅 2026-10-29
+* [GraphiQL](https://github.com/graphql/graphiql) ⭐ 16,928 | 🐛 399 | 🌐 TypeScript | 📅 2026-10-27
+* [Scalar](https://github.com/scalar/scalar) ⭐ 16,352 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-30
 * [Peek (for Linux)](https://github.com/phw/peek) ⚠️ Archived
-* [PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,047 | 🐛 10 | 🌐 Python | 📅 2026-10-29
+* [PySyft](https://github.com/OpenMined/PySyft) ⭐ 10,048 | 🐛 12 | 🌐 Python | 📅 2026-10-30
 * [SockJS - WebSocket emulation](https://github.com/sockjs/sockjs-client) ⭐ 8,505 | 🐛 30 | 🌐 JavaScript | 📅 2026-10-22
-* [FinRobot: An Open-Source AI Agent Platform for Financial Applications](https://github.com/ai4finance-foundation/finrobot) ⭐ 8,332 | 🐛 78 | 🌐 Python | 📅 2026-10-24
-* [Flower](https://github.com/adap/flower) ⭐ 7,192 | 🐛 419 | 🌐 Python | 📅 2026-10-29
-* [write-good](https://github.com/btford/write-good) ⭐ 5,108 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10
-* [TopoJSON](https://github.com/mbostock/topojson) ⭐ 4,905 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20
-* [Tokscale](https://github.com/jamesmurdza/awesome-ai-devtools#usage-analytics--cost-tracking) ⭐ 3,990 | 🐛 479 | 📅 2026-08-27
-* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,963 | 🐛 41 | 🌐 Shell | 📅 2026-10-28
-* [Kubetools - Curated List of Kubernetes Tools](https://github.com/collabnix/kubetools) ⭐ 3,484 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-29
-* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,368 | 🐛 89 | 🌐 Go | 📅 2026-10-29
+* [FinRobot: An Open-Source AI Agent Platform for Financial Applications](https://github.com/ai4finance-foundation/finrobot) ⭐ 8,337 | 🐛 78 | 🌐 Python | 📅 2026-10-24
+* [Flower](https://github.com/adap/flower) ⭐ 7,194 | 🐛 417 | 🌐 Python | 📅 2026-10-30
+* [write-good](https://github.com/btford/write-good) ⭐ 5,107 | 🐛 25 | 🌐 JavaScript | 📅 2025-03-10
+* [TopoJSON](https://github.com/mbostock/topojson) ⭐ 4,906 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-20
+* [Tokscale](https://github.com/jamesmurdza/awesome-ai-devtools#usage-analytics--cost-tracking) ⭐ 3,991 | 🐛 486 | 📅 2026-08-27
+* [github.com/jpetazzo/container.training](https://github.com/jpetazzo/container.training) ⭐ 3,963 | 🐛 41 | 🌐 Shell | 📅 2026-10-30
+* [Kubetools - Curated List of Kubernetes Tools](https://github.com/collabnix/kubetools) ⭐ 3,484 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-29
+* [Google's Differential Privacy Library](https://github.com/google/differential-privacy) ⭐ 3,370 | 🐛 89 | 🌐 Go | 📅 2026-10-30
 * [Qiskit/qiskit-tutorials](https://github.com/Qiskit/qiskit-tutorials) ⚠️ Archived
-* [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) ⭐ 2,269 | 🐛 242 | 🌐 Python | 📅 2026-10-29
+* [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) ⭐ 2,270 | 🐛 240 | 🌐 Python | 📅 2026-10-30
 * [markdownlint](https://github.com/markdownlint/markdownlint) ⭐ 2,083 | 🐛 110 | 🌐 Ruby | 📅 2026-10-01
-* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda) ⭐ 2,007 | 🐛 50 | 🌐 JavaScript | 📅 2026-10-29
+* [Developers Conferences Agenda/list](https://github.com/scraly/developers-conferences-agenda) ⭐ 2,007 | 🐛 59 | 🌐 JavaScript | 📅 2026-10-30
 * [midjourney-api on GitHub](https://github.com/erictik/midjourney-api) ⭐ 1,867 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-26
 * [Open Source Email Templates](https://github.com/sendwithus/templates) ⭐ 1,814 | 🐛 3 | 🌐 HTML | 📅 2024-03-11
 * [HTMLProofer](https://github.com/gjtorikian/html-proofer) ⭐ 1,646 | 🐛 14 | 🌐 Ruby | 📅 2026-10-16
@@ -2621,7 +2621,7 @@ Video channels dedicated to different areas of DevRel:
 * [vmbrasseur/Public\_Speaking](https://github.com/vmbrasseur/Public_Speaking) ⭐ 1,457 | 🐛 28 | 📅 2024-08-11
 * [gifcurry (for Linux/Mac)](https://github.com/lettier/gifcurry) ⭐ 1,453 | 🐛 41 | 🌐 Haskell | 📅 2021-08-13
 * [webui-stability-api](https://github.com/Stability-AI/webui-stability-api) ⭐ 323 | 🐛 4 | 🌐 Python | 📅 2023-06-28
-* [Kubeflow Model Registry](https://github.com/kubeflow/model-registry) ⭐ 189 | 🐛 35 | 🌐 Go | 📅 2026-10-27
+* [Kubeflow Model Registry](https://github.com/kubeflow/model-registry) ⭐ 189 | 🐛 36 | 🌐 Go | 📅 2026-10-27
 * [Startup Simulator 3000](https://github.com/rungalileo/sdk-examples/tree/main/python/agent/startup-simulator-3000) ⭐ 19 | 🐛 92 | 🌐 Python | 📅 2026-07-08
 * [Panthalia](https://github.com/zackproser/panthalia) ⭐ 11 | 🐛 9 | 🌐 TypeScript | 📅 2024-04-25
 * [celestiaorg/devrel-tools](https://github.com/celestiaorg/devrel-tools) ⚠️ Archived
@@ -3192,26 +3192,26 @@ Video channels dedicated to different areas of DevRel:
 
 ## Guides & Resources
 
-* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 370,743 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-28
-* [API · AUTOMATIC1111/stable-diffusion-webui Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) ⭐ 165,180 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02
-* [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 79,657 | 🐛 293 | 🌐 MDX | 📅 2026-03-11
-* [How to use the DALL·E API](https://github.com/openai/openai-cookbook/blob/main/examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb) ⭐ 76,866 | 🐛 346 | 🌐 Jupyter Notebook | 📅 2026-10-29
-* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,339 | 🐛 183 | 📅 2026-08-05
+* [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 370,829 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-30
+* [API · AUTOMATIC1111/stable-diffusion-webui Wiki](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/API) ⭐ 165,185 | 🐛 2,510 | 🌐 Python | 📅 2026-03-02
+* [Prompt-Engineering-Guide - GitHub](https://github.com/dair-ai/prompt-engineering-guide) ⭐ 79,687 | 🐛 293 | 🌐 MDX | 📅 2026-03-11
+* [How to use the DALL·E API](https://github.com/openai/openai-cookbook/blob/main/examples/dalle/Image_generations_edits_and_variations_with_DALL-E.ipynb) ⭐ 76,879 | 🐛 343 | 🌐 Jupyter Notebook | 📅 2026-10-29
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines) ⭐ 23,339 | 🐛 182 | 📅 2026-10-30
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) ⚠️ Archived
-* [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load) ⭐ 12,528 | 🐛 22 | 📅 2026-10-26
-* [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) ⭐ 9,586 | 🐛 5 | 📅 2023-10-23
-* [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,830 | 🐛 16 | 🌐 Python | 📅 2025-01-03
-* [gkamradt/langchain-tutorials: Overview and ...](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,490 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
-* [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,422 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-29
-* [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,967 | 🐛 387 | 🌐 Shell | 📅 2026-10-16
-* [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,140 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08
-* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,990 | 🐛 479 | 📅 2026-08-27
-* [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,324 | 🐛 25 | 📅 2026-07-22
+* [Cognitive load is what matters](https://github.com/zakirullin/cognitive-load) ⭐ 12,529 | 🐛 22 | 📅 2026-10-26
+* [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering) ⭐ 9,587 | 🐛 5 | 📅 2023-10-23
+* [Financial Machine Learning](https://github.com/firmai/financial-machine-learning) ⭐ 8,832 | 🐛 17 | 🌐 Python | 📅 2025-01-03
+* [gkamradt/langchain-tutorials: Overview and ...](https://github.com/gkamradt/langchain-tutorials) ⭐ 7,491 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2024-08-05
+* [Awesome-Prompt-Engineering - GitHub](https://github.com/promptslab/awesome-prompt-engineering) ⭐ 6,426 | 🐛 140 | 🌐 TypeScript | 📅 2026-10-30
+* [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) ⭐ 5,967 | 🐛 396 | 🌐 Shell | 📅 2026-10-16
+* [Node.js CLI Apps Best Practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) ⭐ 4,142 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-08
+* [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools) ⭐ 3,991 | 🐛 486 | 📅 2026-08-27
+* [Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,324 | 🐛 26 | 📅 2026-07-22
 * [Awesome Developer Experience](https://github.com/workos/awesome-developer-experience) ⚠️ Archived
-* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,889 | 🐛 2 | 📅 2026-09-08
-* [Triton Inference Server Tutorials](https://github.com/triton-inference-server/tutorials) ⭐ 870 | 🐛 29 | 🌐 Python | 📅 2026-10-21
+* [Awesome Made by Brazilians](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,892 | 🐛 2 | 📅 2026-09-08
+* [Triton Inference Server Tutorials](https://github.com/triton-inference-server/tutorials) ⭐ 870 | 🐛 30 | 🌐 Python | 📅 2026-10-30
 * [DevRel Tools List](https://github.com/devrelcollective/awesome-devrel) ⭐ 762 | 🐛 5 | 📅 2025-05-09
-* [CNCF Blog Guidelines](https://github.com/cncf/foundation/blob/main/policies-guidance/blog-guidelines.md) ⭐ 696 | 🐛 51 | 🌐 Rich Text Format | 📅 2026-10-29
+* [CNCF Blog Guidelines](https://github.com/cncf/foundation/blob/main/policies-guidance/blog-guidelines.md) ⭐ 696 | 🐛 51 | 🌐 Rich Text Format | 📅 2026-10-30
 * [Awesome LLMs Fine-Tuning](https://github.com/Curated-Awesome-Lists/awesome-llms-fine-tuning) ⭐ 531 | 🐛 12 | 📅 2026-09-04
 * [The Open Source Way Guidebook](https://github.com/theopensourceway/guidebook) ⭐ 213 | 🐛 26 | 📅 2026-10-06
 * [List of developer newsletters (and how to sponsor them)](https://github.com/jackbridger/developer-newsletters) ⭐ 202 | 🐛 10 | 📅 2026-03-18
@@ -3785,4 +3785,4 @@ AI agent skills (using the open [SKILL.md](https://skillsmp.com) standard) that 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
